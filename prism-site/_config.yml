@@ -1,0 +1,44 @@
+title: Prism
+tagline: Mathematicians of every spectrum
+description: >-
+  Prism is a community and resource hub for LGBTQ+ mathematicians,
+  their students, and their allies.
+url: ""
+baseurl: ""
+
+# EIN and donation links are placeholders — replace with your org's real details.
+ein: "00-0000000"
+donate_url: "https://secure.givelively.org/donate/your-org"
+mailing_list_url: "https://groups.google.com/d/forum/your-org"
+bluesky_url: "https://bsky.app/profile/your-org.org"
+
+nav:
+  - title: Home
+    url: /
+  - title: Out List
+    url: /outlist/
+  - title: Board
+    url: /board/
+  - title: Events
+    url: /events/
+  - title: Join
+    url: /join/
+  - title: Allyship
+    url: /allyship/
+  - title: Volunteer
+    url: /volunteer/
+  - title: Donate
+    url: /donate/
+  - title: History
+    url: /history/
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
