@@ -16,7 +16,7 @@ description: Mathematicians who are publicly out as LGBTQ+.
       <p><strong>Want to be added?</strong> Fill out the sign-up form linked on the <a class="text-link" href="{{ '/join/' | relative_url }}">Join</a> page. You choose exactly what appears about you &mdash; name, institution, field, and pronouns are all optional.</p>
     </div>
 
-<div id="SFctr" class="SF" data-org="36805" data-ini="!directory/ord=lnm" data-wgo="0" data-lbl="6ad51a6e1ca50430fa03cc12" data-scl="0" data-sfi="1"></div><script type="text/javascript" src="https://cdn.membershipworks.com/mfm.js"></script>
+<div id="SFctr" class="SF" data-org="36805" data-ini="!directory/ord=lnm" data-wgo="0" data-scl="0" data-sfi="1"></div><script type="text/javascript" src="https://cdn.membershipworks.com/mfm.js"></script>
 
     <div class="people-list">
       <div class="person">
