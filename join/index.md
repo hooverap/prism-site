@@ -38,10 +38,6 @@ description: How to join the community, mailing list, and Out List.
       <p class="section__kicker">Sign up</p>
       <h2>Get on the mailing list</h2>
     </div>
-    <form class="form-row" action="{{ site.mailing_list_url }}" target="_blank" rel="noopener">
-      <label for="join-email">Email address</label>
-      <input type="email" id="join-email" name="email" placeholder="you@example.com" required>
-      <button class="btn" type="submit" style="margin-top:.9rem;">Join the list</button>
-    </form>
+<div id="SFctr" class="SF" data-org="36805" data-ini="join" data-scl="0" data-sfi="1"></div><script type="text/javascript" src="https://cdn.membershipworks.com/mfm.js"></script>
   </div>
 </section>
