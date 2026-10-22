@@ -39,6 +39,8 @@ description: Mathematicians who are publicly out as LGBTQ+.
           <h3>Placeholder Name</h3>
           <p>Applied mathematics &middot; Postdoctoral researcher &middot; he/him</p>
         </div>
+
+        <div id="SFctr" class="SF" data-org="36805" data-ini="myaccount" data-scl="0" data-sfi="1"></div><script type="text/javascript" src="https://cdn.membershipworks.com/mfm.js"></script>
       </div>
     </div>
     <p class="fineprint" style="margin-top:1.5rem;">This is placeholder content. Replace the entries above with real Out List submissions, or wire this page up to a small data file (for example <code>_data/outlist.yml</code>) so entries can be added without editing HTML.</p>
