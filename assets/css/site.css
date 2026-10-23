@@ -625,3 +625,4 @@ figure img { border-radius: var(--radius); }
 
 /* ---------------- MembershipWorks embeds ---------------- */
 .membership-widget { max-width: 52rem; }
+.membership-widget--wide { max-width: none; }

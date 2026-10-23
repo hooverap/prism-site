@@ -30,7 +30,7 @@ description: Conferences, workshops, and gatherings for LGBTQ+ mathematicians be
     {% endif %}
 
     <div class="callout" style="margin-top:1.5rem;">
-      <p><strong>Know of an event?</strong> Let our Outreach &amp; Development Committee know at <a class="text-link" href="mailto:outreach@lgbtmath.org">outreach@lgbtmath.org</a> and we'll add it here.</p>
+      <p><strong>Know of an event?</strong> <a class="text-link" href="{{ '/events/add/' | relative_url }}">Submit it here</a>, or let our Outreach &amp; Development Committee know at <a class="text-link" href="mailto:outreach@lgbtmath.org">outreach@lgbtmath.org</a>.</p>
     </div>
   </div>
 </section>

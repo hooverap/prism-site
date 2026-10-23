@@ -41,6 +41,8 @@ nav:
         url: /events/
       - title: LGBTQ+ Math Events
         url: /events/lgbtq-math/
+      - title: Add Event
+        url: /events/add/
   - title: Community
     children:
       - title: Out List
@@ -49,6 +51,8 @@ nav:
         url: /allyship/#ally-list
       - title: Institutional Members
         url: /allyship/#institutional-members
+      - title: Member Directory
+        url: /members/directory/
       - title: Member Sign In
         url: /members/sign-in/
   - title: Get Involved

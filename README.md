@@ -61,6 +61,8 @@ Get Involved → Join (`/members/join/`) shows the MembershipWorks sign-up form,
 and Community → Member Sign In (`/members/sign-in/`) shows the member login and
 account page. Their embed codes (organization 36805) live in
 `_includes/membershipworks/join.html` and `_includes/membershipworks/account.html`.
+Community → Member Directory (`/members/directory/`) and Events → Add Event
+(`/events/add/`) use `directory.html` and `event-new.html` in the same folder.
 The `/join/` page still holds affiliate, student chapter, and mailing list info.
 
 ## Customize it
