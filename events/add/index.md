@@ -10,6 +10,7 @@ description: Submit an event for LGBTQ+ mathematicians and allies.
       <p class="section__kicker">Events</p>
       <h1>Add an event</h1>
       <p class="lede">Organizing something for LGBTQ+ mathematicians and allies? Submit it here.</p>
+      <p>Sign in with your member account below to add an event. Not a member yet? <a class="text-link" href="{{ '/members/join/' | relative_url }}">Join Spectra</a> &mdash; it's free.</p>
       <p>See what's already scheduled on <a class="text-link" href="{{ '/events/' | relative_url }}">Spectra Events</a> and <a class="text-link" href="{{ '/events/lgbtq-math/' | relative_url }}">LGBTQ+ Math Events</a>.</p>
     </div>
 
