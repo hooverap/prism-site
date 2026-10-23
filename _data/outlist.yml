@@ -1,0 +1,2418 @@
+- name: "Andrea Abeje-Stine"
+  info: "Ph.D. Candidate, Teaching Assistant, Graduate Researcher at UC Riverside (she/her)"
+  website: "https://www.andreagstine.com"
+  contact: true
+- name: "Ray Adams"
+  info: "Independent Researcher (He/Him)"
+  email: "ray@rayvadams.com"
+- name: "Santana Afton"
+  info: "Performance Analyst, Goodwill Industries Int'l (they/it)"
+  email: "santana.afton@gmail.com"
+  website: "https://sites.google.com/view/santanaafton/home"
+  contact: true
+- name: "Shishir Agrawal"
+  info: "Postdoc, UC San Diego"
+  website: "https://sagrawalx.github.io/"
+  contact: true
+- name: "Priyanshi Agrawal"
+  info: "PhD Scholar (She/Her)"
+  email: "agrawalpriyanshi15@gmail.com"
+  contact: true
+- name: "Sanskar Agrawal"
+  info: "PhD Candidate (they/them)"
+  email: "s.agrawal@math.leidenuniv.nl"
+  contact: true
+- name: "Brittany Ahn"
+  info: "PhD student at Boston University (she/they)"
+  email: "bahn@bu.edu"
+  contact: true
+- name: "Michael Allen"
+  info: "PhD Student, Oregon State University (he/they)"
+  contact: true
+- name: "Robert Allen"
+  info: "Professor, University of Wisconsin-La Crosse (he/him/his)"
+  email: "rallen@uwlax.edu"
+  website: "https://www.uwlax.edu/profile/rallen/"
+  contact: true
+- name: "Salim Alloun"
+  info: "PhD Student (he/his)"
+  website: "https://webusers.imj-prg.fr/~salim.alloun/"
+  contact: true
+- name: "Portia Anderson"
+  info: "PhD student at Cornell University (she or they)"
+  email: "pxa2@cornell.edu"
+  contact: true
+- name: "Fernando Anorve-Lopez"
+  info: "Senior Statistical Analyst (He/Him/His)"
+  email: "ferjosafath@outlook.com"
+  contact: true
+- name: "Marco Antei"
+  info: "Professor, University Costa Rica"
+  email: "marco.antei@ucr.ac.cr"
+  contact: true
+- name: "Joseph Antonides"
+  info: "Assistant Professor, Colorado State University (he/him)"
+  email: "joseph.antonides@colostate.edu"
+- name: "Alessandro Arsie"
+  info: "Professor and Graduate Program Director, University of Toledo (he/him/his)"
+  contact: true
+- name: "Charlotte Aten"
+  info: "Postdoc, CU Boulder (she/her)"
+  email: "charlotte.aten@colorado.edu"
+  website: "https://aten.cool"
+  contact: true
+- name: "Max Avener"
+  info: "Teaching Instructor, Temple University (they/them)"
+  email: "max.avener@temple.edu"
+  contact: true
+- name: "Esteban Ayala"
+  info: "PhD student, University of Minnesota Twin Cities"
+  contact: true
+- name: "Kimberly Ayers"
+  info: "Assistant Professor Cal State San Marcos (She/her)"
+  contact: true
+- name: "Spencer Bagley"
+  info: "Associate professor, Westminster College (UT) (He/him/his)"
+  email: "sbagley@westminstercollege.edu"
+  contact: true
+- name: "Robin Baidya"
+  info: "Lecturer, The University of Tennessee, Knoxville (he/him)"
+  email: "rbaidya@utk.edu"
+  contact: true
+- name: "Francesca Balestrieri"
+  info: "Assistant Professor, The American University of Paris (She/her)"
+  email: "fbalestrieri@aup.edu"
+  website: "http://fbalestrieri.github.io"
+  contact: true
+- name: "Aishwarya Balwani"
+  info: "PhD Candidate, Georgia Institute of Technology (She/Her/Hers)"
+  email: "abalwani6@gatech.edu"
+  website: "https://aishwaryahb.github.io/"
+  contact: true
+- name: "Peleg Bar-Lev"
+  info: "PhD student, Uppsala University (she/they)"
+  contact: true
+- name: "Rowan Barker-Clarke"
+  info: "Postdoctoral researcher, Translational hematology and oncology, Cleveland clinic (He/him)"
+  email: "rowanbarkerclarke@gmail.com"
+  contact: true
+- name: "Emily Barranca"
+  info: "Assistant Professor at St. Mary's College of Maryland (she/her/hers)"
+  email: "egbarranca@smcm.edu"
+  contact: true
+- name: "Anya C Bartelmann"
+  info: "Open Scholarship Specialist, Princeton Plasma Physics Laboratory (she/they)"
+  email: "abartelm@pppl.gov"
+  contact: true
+- name: "Sylvia Bayard"
+  info: "trans PhD student at UC Santa Cruz (she/her)"
+  email: "sbayard@ucsc.edu"
+  contact: true
+- name: "Brian Becsi"
+  info: "Washington State University (Any)"
+- name: "Rebecca Bekker"
+  info: "PhD Candidate, H. Lee Moffitt Cancer Center & Research Institute and the University of South Florida (She or they)"
+  email: "rebeccaabekker@gmail.com"
+- name: "Călin Belean"
+  info: "PhD student and adjunct professor (They/them)"
+  email: "calinbelean999@gmail.com"
+  contact: true
+- name: "Joey Colby Bernert"
+  info: "Clinical Social Work (any/all)"
+  email: "bernertj@msu.edu"
+  contact: true
+- name: "Andrew Bernoff"
+  info: "Professor of Mathematics, Harvey Mudd College (he/him/his)"
+  email: "ajb@hmc.edu"
+  website: "http://www.math.hmc.edu/~ajb/"
+  contact: true
+- name: "Lander Besabe"
+  info: "Postdoctoral Fellow, Clemson University"
+  email: "lbesabe@clemson.edu"
+  website: "https://sites.google.com/view/lybesabe/home"
+  contact: true
+- name: "GianMario Besana"
+  info: "Associate PRovost for Global Engagement and Online Learning - Vincent de Paul Professor of Computing (he/him/his)"
+  email: "gbesana@depaul.edu"
+  contact: true
+- name: "Alex Betts"
+  info: "Assistant Professor, Cornell University"
+  website: "https://lalexanderbetts.net"
+  contact: true
+- name: "Kirsti Biggs"
+  info: "Postdoc, Uppsala University (she / her)"
+  email: "kirsti.biggs@math.uu.se"
+  website: "https://www.katalog.uu.se/profile/?id=N22-955"
+- name: "Kairi Black"
+  info: "Duke University, Graduate Student (she/they/xe)"
+  email: "kairi.black@duke.edu"
+  website: "https://services.math.duke.edu/~kjohnson/"
+  contact: true
+- name: "Fiona Blackett"
+  info: "PhD Student, University of Strathclyde (she/her)"
+  email: "fiona.blackett@strath.ac.uk"
+  contact: true
+- name: "Julie Blackwood"
+  info: "Associate Professor, Williams College"
+  email: "jcb5@williams.edu"
+  contact: true
+- name: "Yossi Bokor Bleile"
+  info: "PostDoc, Aalborg University (He/they)"
+  email: "Yossi@yossi.eu"
+  website: "https://Yossi.eu"
+  contact: true
+- name: "Anthony Bonato"
+  info: "Professor, Toronto Metropolitan University (he/him/his)"
+  email: "abonato@torontomu.ca"
+  contact: true
+- name: "Rosemarie Bongers"
+  info: "Assistant Teaching Professor, University of California Merced (she/they)"
+  email: "rosemariebongers@ucmerced.edu"
+  contact: true
+- name: "Becca Bonham-Carter"
+  info: "Graduate Student in Mathematics, UBC"
+  email: "rebecca.bonhamcarter@gmail.com"
+  contact: true
+- name: "Ashley Bonner"
+  info: "PhD Student, Graduate Teaching Assistant, University of Florida (She)"
+  email: "Bonnera@ufl.edu"
+  contact: true
+- name: "Olivia Borghi"
+  info: "PhD student (she/her/hers)"
+  contact: true
+- name: "Debbie Borkovitz"
+  info: "Clinical Professor of Mathematics and Mathematics Education, Boston University (She/Her)"
+  website: "https://debraborkovitz.com/"
+  contact: true
+- name: "Holly Bossart"
+  info: "PhD Student at Carnegie Mellon University Department of Statistics and Data Science (She/her/hers)"
+  email: "hbossart@andrew.cmu.edu"
+  website: "https://hollybossart.com/"
+  contact: true
+- name: "Corryn Bottenfield"
+  info: "MS Student at UC Riverside (fae/faer, ey/em)"
+  email: "corryn.bottenfield@gmail.com"
+  contact: true
+- name: "Shelly Bouchat"
+  info: "Associate Professor at Berea College (She/her, they/them)"
+  email: "bouchatr@berea.edu"
+  website: "https://www.rachellebouchat.com"
+  contact: true
+- name: "Ash Boucher"
+  info: "PhD Student, University of Delaware (They/She)"
+  email: "catdaddy@udel.edu"
+  website: "https://www.mathsci.udel.edu/people/catdaddy"
+  contact: true
+- name: "Eric Boulter"
+  info: "Postdoctoral Fellow, University of Saskatchewan (they/them)"
+  email: "eric.boulter@usask.ca"
+  website: "https://sites.google.com/view/ericboulter/home"
+- name: "Olivia Bouthot"
+  info: "Graduate Teaching Assistant, University of Wisconsin-Milwaukee (they/them)"
+  email: "obouthot@uwm.edu"
+  contact: true
+- name: "Tom Braden"
+  info: "Professor (He/him)"
+  website: "https://sites.google.com/umass.edu/tom-braden/"
+  contact: true
+- name: "Felix Bradley"
+  info: "PhD Student, Royal Holloway, University of London (Any/All)"
+  email: "felix.bradley@rhul.ac.uk"
+  contact: true
+- name: "Mark Branson"
+  info: "Associate Professor, Stevenson University (Any pronouns used respectfully)"
+  email: "mbranson@stevenson.edu"
+  contact: true
+- name: "Harrison Bray"
+  info: "Term Assistant Professor at George Mason University (He/him/his)"
+  website: "https://www.harrisonbray.com/"
+  contact: true
+- name: "Hazel Brenner"
+  info: "PhD Student, Cornell University (she/her/hers)"
+  email: "hnb29@cornell.edu"
+  contact: true
+- name: "Tabes Bridges"
+  info: "Lecturer, UIC (he/him/his)"
+  email: "tabesbridges@gmail.com"
+  contact: true
+- name: "Juliette Bruce"
+  info: "NSF Postdoc, UC Berkeley (She/Her/Hers)"
+  email: "juliette.bruce@berkeley.edu"
+  website: "https://juliettebruce.github.io"
+  contact: true
+- name: "Ben Bruce"
+  info: "Assistant Professor of Mathematics (he/him)"
+  email: "benjamin.bruce@trincoll.edu"
+  website: "https://sites.google.com/view/ben-bruce/home"
+  contact: true
+- name: "Ron Buckmire"
+  info: "Professor of Mathematics and Associate Dean for Curricular Affairs (he/him/his)"
+  email: "ron@oxy.edu"
+  website: "https://sites.oxy.edu/ron"
+  contact: true
+- name: "Alex Burgin"
+  info: "PhD Student, Georgia Institute of Technology (He/him/his)"
+  email: "aburgin6@gatech.edu"
+  website: "https://sites.gatech.edu/alexburgin/"
+  contact: true
+- name: "Gauge Burnett"
+  info: "Graduate Student (he/him)"
+  email: "abigail.p.burnett@gmail.com"
+  website: "https://twitter.com/GaugePBurnett"
+  contact: true
+- name: "Adrien Busnot Laurent"
+  info: "Associate Professor (CR) at INRIA Rennes (He/him/his)"
+  email: "Adrien.Laurent@inria.fr"
+  website: "https://adrienlaurent.net/"
+  contact: true
+- name: "Jane Butterfield"
+  info: "Associate Teaching Professor (she/her)"
+  email: "jvbutter@uvic.ca"
+  contact: true
+- name: "Dominique Cambay"
+  info: "BSc. (Hons) Applied Mathematics - Financial Aid Assistant, Scholarships & Awards and Financial Aid at Kwantlen Polytechnic University (She/Her/They/Them)"
+  email: "dominique.cambay@kpu.ca"
+  contact: true
+- name: "Dessie Camp"
+  info: "Professor, Tyler Junior College (she/her/hers)"
+  email: "dessie.camp@tjc.edu"
+  contact: true
+- name: "Leasly Campa"
+  info: "PhD student at UAM Mexico (She/Her/They/Them)"
+  email: "mathcampa@gmail.com"
+  contact: true
+- name: "Catherine Cannizzo"
+  info: "NSF MPS-Ascend Postdoctoral Fellow at University of California-Berkeley (she/her)"
+  email: "ckacannizzo@berkeley.edu"
+  website: "https://sites.google.com/view/ccannizzo/"
+  contact: true
+- name: "Marco Carfagnini"
+  info: "Lecturer (Assistant Professor) at The University of Melbourne (he-they)"
+  email: "marco.carfagnini@unimelb.edu.au"
+  website: "https://sites.google.com/view/marcocarfagnini"
+  contact: true
+- name: "Carlos Carlos Montes"
+  info: "MS Student at The University of Texas Rio Grande Valley (He/Him)"
+  email: "carlos.montes02@utrgv.edu"
+  contact: true
+- name: "MacKenzie Carr"
+  info: "Postdoc, Toronto Metropolitan University (she/her)"
+  email: "mackenzie.carr@torontomu.ca"
+  website: "https://mackcarr.wordpress.com/"
+  contact: true
+- name: "Joao Pedro Carvalho"
+  info: "PhD student, University of Michigan (He/Him)"
+  email: "jpcarv@umich.edu"
+  contact: true
+- name: "Tommie Catanach"
+  info: "Principal Member of Technical Staff, Sandia National Laboratories (They/She)"
+  email: "tacatan@sandia.gov"
+  contact: true
+- name: "Renzo Cavalieri"
+  info: "Colorado State University, Professor (he/him/his)"
+  email: "renzo@math.colostate.edu"
+  contact: true
+- name: "Francesco Cellarosi"
+  info: "Associate Professor (he/him)"
+  email: "fc19@queensu.ca"
+  website: "https://sites.google.com/view/fcellaro/home"
+  contact: true
+- name: "Guilherme Cerqueira Gonçalves"
+  info: "PhD Student, Université Paul Sabatier Toulouse III (They/He/She)"
+  email: "guicerqg@gmail.com"
+  website: "https://guicerqmath.github.io"
+  contact: true
+- name: "Jillian Cervantes"
+  info: "Graduate student, University of Wisconsin - Milwaukee (she/they)"
+  email: "jillianmcervantes@gmail.com"
+  website: "https://www.jilliancervantes.com/"
+  contact: true
+- name: "Patrick Chan"
+  info: "Graduate Student, Indiana University (He/Him)"
+  contact: true
+- name: "Lori Chapman"
+  info: "Professor of Mathematics, Macomb Community College (They/them)"
+  email: "chapmanl21071@gmail.com"
+  contact: true
+- name: "Steven Charlton"
+  info: "Postdoctoral fellow, Max Planck Institute for Mathematics (Bonn)"
+  email: "charlton@mpim-bonn.mpg.de"
+  website: "https://guests.mpim-bonn.mpg.de/spc/"
+  contact: true
+- name: "Hunter Chase"
+  info: "NSF Postdoc, University of Maryland, College Park (he/him)"
+  email: "hsachase@gmail.com"
+  contact: true
+- name: "Jean-Philippe Chassé"
+  info: "PhD Student, Université de Montréal (they/he)"
+  email: "jean-philippe.chasse@umontreal.ca"
+  website: "https://dms.umontreal.ca/~chasseje/"
+  contact: true
+- name: "Zara Chastain"
+  info: "Lead Curator, Mathematical Sciences Publishers (She/her)"
+  email: "zara@msp.org"
+  website: "http://msp.org"
+  contact: true
+- name: "Ana Paula Chaves"
+  info: "Professor (She)"
+  email: "apchaves@ufg.br"
+  website: "https://apchaves.ime.ufg.br/"
+  contact: true
+- name: "Anish Chedalavada"
+  info: "Postdoc, Universität Münster (He/him)"
+  email: "anish.chedalavada@gmail.com"
+  website: "https://aragogh.github.io"
+  contact: true
+- name: "Anthony Chen"
+  info: "PhD student, University of Michigan (He/him/his)"
+  email: "cygnari@umich.edu"
+  contact: true
+- name: "Karina Cho"
+  info: "Instructor of Mathematics, De Anza College (they/them)"
+  email: "karinaecho@gmail.com"
+  website: "https://www.linkedin.com/in/karina-cho"
+  contact: true
+- name: "Rustum Choksi"
+  info: "Professor and Department Chair of Mathematics, McGill University (He)"
+  website: "http://www.math.mcgill.ca/rchoksi/"
+  contact: true
+- name: "Carsten Chong"
+  info: "Assistant Professor of Statistics, Columbia University (he/him/his)"
+  website: "http://www.columbia.edu/~chc2169/"
+  contact: true
+- name: "Tom Clarke"
+  info: "Retired prof. North Carolina A & T State University (he)"
+  email: "tomclarke@mindspring.com"
+  contact: true
+- name: "Corrin Clarkson"
+  info: "Director of General Education Math Modeling, Indiana University (she / her )"
+  email: "cjclarks@iu.edu"
+  contact: true
+- name: "Juniper Cocomello"
+  info: "PhD Candidate at Brown University (they/them)"
+  email: "juniper_cocomello@brown.edu"
+  website: "http://junipercocomello.com"
+  contact: true
+- name: "Ian Coley"
+  info: "Consultant, Boston Consulting Group (San Diego) (He/Him)"
+  email: "spectra@iancoley.org"
+  website: "https://iancoley.org"
+  contact: true
+- name: "Laura Colmenarejo"
+  info: "Assistant professor at NCSU (She/her)"
+- name: "Jean Coltharp"
+  info: "Associate Professor, Mathematics, Missouri Southern State University (she/her)"
+  email: "coltharp-j@mssu.edu"
+  contact: true
+- name: "Darin Comeau"
+  info: "Scientist, Los Alamos National Lab (he/him/his)"
+  contact: true
+- name: "Joe Compton"
+  info: "PhD Student, UNC-Chapel Hill (he/him)"
+  website: "https://tarheels.live/josephcompton/"
+  contact: true
+- name: "Daniel Condon"
+  info: "Visiting Assistant Professor, Williams College (they/them)"
+- name: "Gustav Conradie"
+  info: "PhD student, University of Cambridge (he/him)"
+  email: "gjc51@cam.ac.uk"
+- name: "Christian Cooper"
+  info: "PhD Student University of Arizona (He They)"
+  email: "christiancooper@math.arizona.edu"
+  contact: true
+- name: "Matt Cordes"
+  info: "Assistant Professor, Heriot-Watt University (he/him)"
+  website: "https://www.mcordes.com"
+  contact: true
+- name: "Alex Corner"
+  info: "Lecturer, Sheffield Hallam University (He/Him)"
+  contact: true
+- name: "Julien Corven"
+  info: "Assistant Professor, Illinois State University (he/him)"
+  email: "jccorve@ilstu.edu"
+  contact: true
+- name: "Ryan Covington"
+  info: "Graduate Student (He/Him)"
+  email: "ryan.covington@ttu.edu"
+  contact: true
+- name: "Raemeon Cowan"
+  info: "Mathematics PhD Student, UGA ((he/him/his))"
+  email: "Raemeon.Cowan@uga.edu"
+- name: "Chris Cox"
+  info: "Postdoc (he/his)"
+  email: "chris@mathematicaster.org"
+  website: "https://mathematicaster.org"
+  contact: true
+- name: "Zack Cramer"
+  info: "Lecturer, Faculty of Mathematics, University of Waterloo (He/him)"
+  email: "zcramer@uwaterloo.ca"
+  website: "http://www.math.uwaterloo.ca/~zcramer"
+  contact: true
+- name: "Ryan Creedon"
+  info: "Postdoc, University of Washington (He/Him)"
+  email: "creedon@uw.edu"
+  website: "https://rpac5130.github.io/"
+  contact: true
+- name: "Toren D'Nelly-Warady"
+  info: "PhD Student, University of California San Diego (they/them)"
+  email: "tdnellywarady@ucsd.edu"
+  contact: true
+- name: "Dev Dabke"
+  info: "Grad student, Princeton (he/him)"
+  email: "dev@dabke.com"
+  website: "https://devdabke.com"
+  contact: true
+- name: "Michelle Daher"
+  info: "Teaching Fellow, University of Warwick (She/Her)"
+  contact: true
+- name: "Vianne Daniels"
+  info: "Undergraduate student/tutor at University of Nevada Las Vegas (UNLV) (she/her and they/them)"
+  email: "rowl.1172@gmail.com"
+  contact: true
+- name: "Diana Davis"
+  info: "Swarthmore College, Visiting Assistant Professor (she/her)"
+  contact: true
+- name: "Diane Davis"
+  info: "Professor, Metropolitan State University of Denver (she/her)"
+  email: "ddavi102@msudenver.edu"
+  website: "https://sites.msudenver.edu/ddavi102/"
+  contact: true
+- name: "Jupiter Davis"
+  info: "Master's Student, San Francisco State University (xe/xir/xirs)"
+  email: "jdavis@mail.sfsu.edu"
+  contact: true
+- name: "Nyah Davis"
+  info: "PhD student at Rice University"
+  email: "nyahjdavis@gmail.com"
+  contact: true
+- name: "Tori Day"
+  info: "Visiting Lecturer in Mahematics, Mount Holyoke College (she/her)"
+  email: "victorialynnday@gmail.com"
+  contact: true
+- name: "Addison Day"
+  info: "PhD Student (He/They)"
+  email: "dayadd@oregonstate.edu"
+  contact: true
+- name: "Adaline De Chenne"
+  info: "Graduate Student (She/Her)"
+  email: "dechenna@oregonstate.edu"
+  contact: true
+- name: "Jamie de Jong"
+  info: "Instructor I, University of Manitoba (she/her)"
+  email: "jamie.dejong@umanitoba.ca"
+  contact: true
+- name: "Emily de Oliveira Santos"
+  info: "Undergraduate student at the University of São Paulo (she/her)"
+  email: "emily.de.oliveira.santos.tmf@gmail.com"
+  website: "https://topological-modular-forms.github.io/"
+- name: "Michael DeGroff-Kirchgraber"
+  info: "Development Database Administrator at Project Open Hand (they/them)"
+  email: "mdegroffkirchgraber@openhand.org"
+- name: "Hannah Dell"
+  info: "Postdoc, University of Bonn (they/she)"
+  email: "hdell@math.uni-bonn.de"
+  website: "https://www.hannahdell.me/"
+  contact: true
+- name: "Hannah Dell"
+  info: "Postdoc (they/them)"
+  email: "hdell@math.uni-bonn.de"
+  website: "https://hannahdell.me"
+  contact: true
+- name: "Aram Dermenjian"
+  info: "York University; Postdoc (he/him)"
+  email: "aram.dermenjian@gmail.com"
+  website: "http://dermenjian.com"
+  contact: true
+- name: "Andrew Dias"
+  info: "Private Tutor in Mathematics (He/His)"
+  email: "drewdiastutor@gmail.com"
+  contact: true
+- name: "Jill Dietz"
+  info: "Professor of Mathematics, St. Olaf College (she/her)"
+  email: "dietz@stolaf.edu"
+  contact: true
+- name: "Caleb Dilsavor"
+  info: "PhD Student, Ohio State University (he/him/his)"
+  email: "dilsavor.4@osu.edu"
+- name: "Elena Dimitriadis Bermejo"
+  info: "Teaching Associate (INSA Toulouse) (she/her)"
+  email: "dimitriadis-bermejo.math@posteo.net"
+  contact: true
+- name: "Hope Doherty"
+  info: "Math Undergrad, Georgia Gwinnett College (She/They)"
+  email: "adoherty1@ggc.edu"
+  contact: true
+- name: "Vladimir Dotsenko"
+  info: "Professor, University of Strasbourg, France"
+  email: "vdotsenko@unistra.fr"
+  website: "http://irma.math.unistra.fr/~dotsenko"
+  contact: true
+- name: "Natalie Downey"
+  info: "Graduate student at University of Illinois Urbana-Chapaign (She/Her/They/Them)"
+  email: "ndowney2@illinois.edu"
+- name: "Devin Driggs"
+  info: "PhD student, Rice University (He/him)"
+  email: "dd112@rice.edu"
+  contact: true
+- name: "Jennifer Duncan"
+  info: "Postdoc at the ICMAT, Madrid (she/her)"
+  email: "jennifer.duncan@icmat.es"
+  contact: true
+- name: "Jill Dunham"
+  info: "Associate professor (She her)"
+  email: "jillbd@gmail.com"
+  contact: true
+- name: "Matthew Durham"
+  info: "Assistant Professor at UC Riverside (they/them)"
+  email: "mdurham@ucr.edu"
+  website: "https://sites.google.com/view/mgdurham/home"
+  contact: true
+- name: "Alisa Ediger"
+  info: "PhD student, University of Oklahoma (She/her)"
+  email: "aediger2@ou.edu"
+  contact: true
+- name: "Michael Eichmair"
+  info: "Professor of Mathematics, University of Vienna (he/him)"
+  contact: true
+- name: "Jesse Elliott"
+  info: "Professor, California State University, Channel Islands"
+  email: "jesse.elliott@csuci.edu"
+  contact: true
+- name: "Brad Elliott"
+  info: "Lecture, University of Kentucky (He/him)"
+  email: "bradley.elliott@uky.edu"
+  contact: true
+- name: "Christian Ennis"
+  info: "Graduate Student in Mathematics at Louisiana State University (He/Him)"
+  email: "Cennis4@lsu.edu"
+  contact: true
+- name: "Helen Epelbaum"
+  info: "Recent PhD graduate from UCSB, on the job market ((she/they))"
+  email: "daniel@math.ucsb.edu"
+  contact: true
+- name: "Matt Evans"
+  info: "Assistant Professor, Washington & Jefferson College (He/him)"
+  email: "mevans@washjeff.edu"
+  website: "https://sites.google.com/view/mattevans"
+  contact: true
+- name: "Barbara Fantechi"
+  info: "Professor (She/her)"
+  email: "barbara.fantechi@gmail.com"
+- name: "James Farre"
+  info: "JProf at Universität Heidelberg"
+  email: "jfarre@mathi.uni-heidelberg.de"
+  website: "https://sites.google.com/site/jamesfarremath/"
+  contact: true
+- name: "Frank Farris"
+  info: "Professor of Mathematics and Computer Science, Santa Clara University (he/him/his)"
+  email: "ffarris@scu.edu"
+  website: "http://math.scu.edu/~ffarris"
+  contact: true
+- name: "Azul Lihuen Fatalini"
+  info: "Phd student, University of Münster (She/her)"
+  website: "https://azul-fatalini.notion.site/Azul-Lihuen-Fatalini"
+  contact: true
+- name: "Anne Fayolle"
+  info: "MS student at EPFL (she/they)"
+  email: "anne.fayolle@epfl.ch"
+- name: "Laura Olivia Felder"
+  info: "PhD Student, University of Hertfordshire (she/it)"
+  email: "mail@lauraolivia.eu"
+  website: "https://lauraolivia.eu"
+  contact: true
+- name: "Giulio Fellin"
+  info: "PhD Student"
+  email: "giulio@fellin.ga"
+  website: "http://fellin.ga"
+- name: "Kamillo Ferry"
+  info: "PhD student (he/him)"
+  email: "kafe@kafe.dev"
+  website: "https://kafe.dev"
+  contact: true
+- name: "Rebecca Field"
+  info: "Associate Professor, Department of Mathematics and Statistics, James Madison University (She, her, hers)"
+  email: "fieldre@jmu.edu"
+  website: "http://educ.jmu.edu/~fieldre/"
+  contact: true
+- name: "Alex Fink"
+  info: "Professor, Queen Mary University of London (he/him)"
+  email: "a.fink@qmul.ac.uk"
+  website: "https://webspace.maths.qmul.ac.uk/a.fink/"
+  contact: true
+- name: "Abigail Finlay"
+  info: "trans woman; PhD Student at the University of Michigan (she/her/hers)"
+  email: "dfinlay@umich.edu"
+  contact: true
+- name: "Elliott Fireheart"
+  info: "High School Mathematics Teacher, Eugene Oregon ((they/them))"
+  email: "mx.fireheart@gmail.com"
+  contact: true
+- name: "Zach Flores"
+  info: "Graduate Student, Colorado State University (He/him/his )"
+  email: "floresza@colostate.edu"
+  website: "https://zachflores.weebly.com/"
+  contact: true
+- name: "Petra/Pierre Flurin"
+  info: "PhD (They/them)"
+  email: "pflurin@gmail.com"
+  contact: true
+- name: "Amanda Folsom"
+  info: "Professor, Amherst College"
+- name: "AJ Fong"
+  info: "PhD student, University of Waterloo (he/him)"
+  email: "aj.fong@uwaterloo.ca"
+  website: "https://www.math.uwaterloo.ca/~a24fong/"
+  contact: true
+- name: "Michael Freeze"
+  info: "Professor of Mathematics, UNC Wilmington (he / him)"
+  email: "freezem@uncw.edu"
+  website: "https://mathcoursesb.pages.dev/"
+- name: "Christoph Frei"
+  info: "Professor, University of Alberta (he/him/his)"
+  email: "cfrei@ualberta.ca"
+  website: "https://www.math.ualberta.ca/~cfrei/"
+  contact: true
+- name: "Martina Fruttidoro"
+  info: "PhD Student in University of Munster (She/Her)"
+  contact: true
+- name: "Christian Gaetz"
+  info: "Assistant Professor, UC Berkeley (he/him)"
+  contact: true
+- name: "Federico (Fred) Galetto"
+  info: "Assistant Professor, Cleveland State University (he/him/his)"
+  email: "f.galetto@csuohio.edu"
+  website: "https://math.galetto.org"
+  contact: true
+- name: "Ziyang Gao"
+  info: "Professor, UCLA"
+  email: "ziyang.gao@math.ucla.edu"
+  website: "https://ziyangjeremygao.github.io"
+  contact: true
+- name: "Bradford Garcia"
+  info: "PhD student at Texas A&M University (he/him/his)"
+  email: "garcia@math.tamu.edu"
+  website: "https://www.math.tamu.edu/~garcia"
+  contact: true
+- name: "Courtney George"
+  info: "PhD Student, University of Kentucky (she/her)"
+  email: "courtney.george@uky.edu"
+  website: "https://sites.google.com/view/courtneygeorge/home"
+  contact: true
+- name: "Chloe George"
+  info: "Math MS student at University of Minnesota in Duluth (she/her/hers or they/them/theirs)"
+  email: "georg953@d.umn.edu"
+  contact: true
+- name: "Erin George"
+  info: "Postdoc (University of California, San Diego) (they/she)"
+  email: "e2george@ucsd.edu"
+  website: "https://egeo.cc"
+  contact: true
+- name: "Bryn Gerding"
+  info: "Research Assistant, College of Charleston (they/them)"
+  email: "gerdingb@cofc.edu"
+  contact: true
+- name: "Ryan Gibara"
+  info: "Assistant professor, Cape Breton University (he/him/his)"
+  email: "ryan_gibara@cbu.ca"
+  contact: true
+- name: "Chris Given"
+  info: "Master's Student, University of Massachusetts Amherst (he/him)"
+  email: "cgiven@umass.edu"
+  contact: true
+- name: "Victor Glasgo"
+  info: "Lecturer at Kennesaw State University (He/Him)"
+  email: "vglasgo@kennesaw.edu"
+  contact: true
+- name: "Wayne Goddard"
+  info: "Professor, Clemson University (He/him)"
+  website: "https://people.cs.clemson.edu/~goddard/"
+  contact: true
+- name: "Chris Goff"
+  info: "Professor, University of the Pacific (he/him/his)"
+  email: "cgoff@pacific.edu"
+  contact: true
+- name: "Ilan Goldfeder"
+  info: "Associate Professor, Universidad Autónoma Metropolitana, Iztapalapa (He/him)"
+  email: "ilan.goldfeder@gmail.com"
+  contact: true
+- name: "Bryce Goldman"
+  info: "Graduate Student, Stanford University (He/Him)"
+  email: "alkizar@stanford.edu"
+  contact: true
+- name: "Adrian Gonzalez Casanova"
+  info: "Visiting Assistant Professor"
+  email: "gonzalez.casanova@berkeley.edu"
+  website: "https://statistics.berkeley.edu/people/adrian-gonzalez-casanova"
+  contact: true
+- name: "mark goresky"
+  info: "retired member of IAS (he/him)"
+  website: "http://www.math.ias.edu/~goresky"
+  contact: true
+- name: "Elaine Gorom"
+  info: "PhD Candidate (She/her)"
+- name: "Fern Gossow"
+  info: "PhD student, University of Oregon (they/them)"
+  email: "ferngoss@uoregon.edu"
+  contact: true
+- name: "Advith Govindarajan"
+  info: "Graduate Student - Univeristy of Illinois (he/him)"
+  contact: true
+- name: "Joseph Granata"
+  info: "Master’s student, University of Toronto (He/him)"
+  email: "jgranata13@gmail.com"
+  contact: true
+- name: "Matheus Grasselli"
+  info: "Deputy Provost, McMaster University"
+  contact: true
+- name: "Simon Gritschacher"
+  info: "Postdoc at the University of Copenhagen"
+  email: "gritschacher@math.ku.dk"
+  contact: true
+- name: "Isaac Grosof"
+  info: "Phd Student at Carnegie Mellon University (they/them)"
+  website: "http://isaacg1.github.io"
+  contact: true
+- name: "Christina Grossack"
+  info: "PhD Candidate UC Riverside (she/they)"
+  email: "cgros007@ucr.edu"
+  website: "https://grossack.site"
+  contact: true
+- name: "Lino Guajardo"
+  info: "Assistant Professor at Central Michigan University (USA) (Any/All)"
+  email: "guaja1lr@cmich.edu"
+  contact: true
+- name: "Sera Gunn"
+  info: "Lecturer, College of Staten Island (they/them)"
+  email: "sera.gunn@csi.cuny.edu"
+  website: "https://seragunn.github.io/"
+  contact: true
+- name: "Elena (Ellie) Gurvich"
+  info: "PhD Student at UMBC (she/her and they/them)"
+  email: "gurv-3@umbc.edu"
+  website: "https://sites.google.com/view/elliegurvich/"
+  contact: true
+- name: "Cameron Hall"
+  info: "Lecturer in Mathematical and Data Modelling, University of Bristol ((he/him))"
+  email: "cameron.hall@bristol.ac.uk"
+  website: "https://www.bristol.ac.uk/people/person/Cameron-Hall-09d17dde-702b-4bd2-aeed-a6e34cacd5f9"
+  contact: true
+- name: "Samuel Hansen"
+  info: "Mathematics and Statistics Librarian, University of Michigan (They/Them)"
+  email: "hansensm@umich.edu"
+  website: "https://samuelhansen.com"
+  contact: true
+- name: "Kevin Hare"
+  info: "University of Waterloo (he/him)"
+  email: "kghare@uwaterloo.ca"
+  website: "https://uwaterloo.ca/scholar/kghare/"
+  contact: true
+- name: "Stacey Harris"
+  info: "Professor of Mathematics & Statistics, Saint Louis University (she/her/hers)"
+  email: "stacey.harris@slu.edu"
+  contact: true
+- name: "Shelly Harvey"
+  info: "Professor of Mathematics, Rice University (She/her/hers)"
+  email: "shelly@rice.edu"
+  website: "http://math.rice.edu"
+  contact: true
+- name: "Daniel Hast"
+  info: "Postdoc, Boston University (they/them)"
+  email: "drhast@bu.edu"
+  website: "https://math.bu.edu/people/drhast/"
+- name: "Edison Hauptman"
+  info: "Ph.D. Candidate, University of Pittsburgh, Department of Mathematics (he/him/his)"
+  email: "ERH129@pitt.edu"
+  website: "https://edihau.github.io"
+  contact: true
+- name: "Ethan Heleotes"
+  info: "Undergraduate student at Arizona State University (he/they)"
+  email: "ethanheleotes@gmail.com"
+- name: "Paige Helms"
+  info: "PhD Student, University of Washington (she/her)"
+  email: "phelms@uw.edu"
+  website: "https://sites.google.com/view/paige-helms/home"
+  contact: true
+- name: "Oskar Henriksson"
+  info: "MPI-CBG Dresden (he/him)"
+  website: "https://oskarhenriksson.io/"
+  contact: true
+- name: "Beth Hentges"
+  info: "Mathematics Faculty, Century College, White Bear Lake, MN (she/her/hers)"
+  email: "beth.hentges@century.edu"
+  contact: true
+- name: "Kimberly Herrera"
+  info: "PhD Student, University of Minnesota Twin Cities (she/they)"
+  email: "herre484@umn.edu"
+  contact: true
+- name: "Sebastián Herrero"
+  info: "Profesor Asociado, Universidad de Santiago de Chile"
+  email: "sebastian.herrero.m@gmail.com"
+  website: "https://sites.google.com/site/sebastianherreromath"
+  contact: true
+- name: "Sarah Heuss"
+  info: "Adjunct, USC-Upstate (she/her)"
+  email: "sarah.heuss@gmail.com"
+  contact: true
+- name: "Samantha Hiken"
+  info: "PhD student, University of Michigan-Ann Arbor (She/her)"
+  email: "hiken at umich dot edu"
+  contact: true
+- name: "Mike Hill"
+  info: "Professor, University of Minnesota (he/him/his)"
+  email: "mikehill@math.ucla.edu"
+  website: "http://math.ucla.edu/~mikehill/"
+  contact: true
+- name: "Jon Hillery"
+  info: "PhD Student, UCLA (he/him)"
+  email: "hillery@math.ucla.edu"
+  website: "http://math.ucla.edu/~hillery"
+  contact: true
+- name: "Auden Hinz"
+  info: "Assistant Professor at Rhode Island College (she/her)"
+  email: "ahinz@ric.edu"
+  contact: true
+- name: "Joseph Hirsh"
+  info: "Unaffiliated/industry (He/him)"
+  email: "josephhirsh@gmail.com"
+  website: "https://joeymakes.info"
+  contact: true
+- name: "Max Hlavacek"
+  info: "Visiting Assistant Professor at Pomona College (they)"
+  email: "mhap2023@pomona.edu"
+  contact: true
+- name: "Will Hoffer"
+  info: "Graduate Student at University of California, Riverside (he/him/his)"
+  email: "math@willhoffer.com"
+  website: "http://willhoffer.com"
+  contact: true
+- name: "Matt Holden"
+  info: "Senior Lecturer (he/they)"
+  email: "m.holden1@uq.edu.au"
+  website: "https://matthewhholden.github.io/"
+  contact: true
+- name: "Richard Hollister"
+  info: "Visiting Assistant Professor of Mathematics at SUNY Buffalo (He, Him, His)"
+- name: "JJ Hoo"
+  info: "PhD Candidate - Texas Tech University (He/Him)"
+  email: "jhoo@ttu.edu"
+  contact: true
+- name: "Alexander Hoover"
+  info: "Assistant Professor, University of Tennessee, Knoxville (he/him/his)"
+  email: "hoover@utk.edu"
+  website: "https://www.alexanderphoover.info"
+  contact: true
+- name: "Brian Hopkins"
+  info: "Professor, Saint Peter's University (he/him)"
+  email: "bhopkins@saintpeters.edu"
+  website: "https://www.saintpeters.edu/academics/faculty/members/brian-hopkins/"
+  contact: true
+- name: "Ruthi Hortsch"
+  info: "Executive Director, NY Programs at Bridge to Enter Advanced Mathematics (BEAM) (She/her/hers)"
+  email: "rhortsch@gmail.com"
+  contact: true
+- name: "Calvin Hotchkiss"
+  info: "Teaching Postdoc at University of Kentucky (he/him)"
+  email: "hotchkiss@uky.edu"
+  contact: true
+- name: "Hannah Housden"
+  info: "Postdoc, Vanderbilt University (she/her)"
+  email: "hannah.housden@vanderbilt.edu"
+  contact: true
+- name: "Payton Howell"
+  info: "PhD Student, University of Washington (Any)"
+  email: "pgh15@uw.edu"
+- name: "Victoria Howle"
+  info: "Professor of Mathematics, Texas Tech University (she/her)"
+  email: "victoria.howle@ttu.edu"
+  website: "https://www.math.ttu.edu/~vhowle/"
+  contact: true
+- name: "Victoria Howle"
+  info: "Associate Professor of Mathematics, Texas Tech University (She/her)"
+  email: "victoria.howle@ttu.edu"
+  website: "http://www.math.ttu.edu/~vhowle"
+  contact: true
+- name: "Jackson Hsu"
+  info: "Math Faculty, Monterey Peninsula College (he/him/his)"
+  email: "jhsu@mpc.edu"
+  contact: true
+- name: "Serina Hu"
+  info: "PhD Student, MIT (she/her/hers)"
+  email: "serinahu@mit.edu"
+  contact: true
+- name: "Nathan Hughes"
+  info: "postdoctoral research associate, Karlsruhe Institute for Technology (he/him/his)"
+  email: "nathan.hughes@kit.edu"
+  contact: true
+- name: "Nathan Hughes"
+  info: "postdoctoral research associate, Karlsruhe Institute for Technology (he/him/his)"
+  email: "nathan.hughes@kit.edu"
+  contact: true
+- name: "Julie Hulgan"
+  info: "Associate Professor, Oxford College of Emory University (she/her)"
+  email: "jhulgan@emory.edu"
+  contact: true
+- name: "Zane Huttinga"
+  info: "Graduate Teaching Assistant at University of Minnesota - Twin Cities (He/Him/His)"
+  contact: true
+- name: "Kenan Ince"
+  info: "Associate Professor of Mathematics, Westminster College (Salt Lake City) (they/them/theirs)"
+  email: "kince@westminstercollege.edu"
+  website: "https://kenanince.me"
+  contact: true
+- name: "Faye Jackson"
+  info: "PhD Student (She/they)"
+  email: "alephnil@uchicago.edu"
+  website: "http://math.uchicago.edu/~alephnil/en/"
+  contact: true
+- name: "Ben Jany"
+  info: "PhD student at the University of Kentucky (He)"
+  email: "Benjamin.Jany@uky.edu"
+- name: "Joanna Jauchen"
+  info: "Instructor, George Mason University (She/They)"
+  email: "jjauchen@gmu.edu"
+  website: "https://science.gmu.edu/directory/joanna-jauchen"
+  contact: true
+- name: "Reeve Johnson"
+  info: "PhD Student, Case Western Reserve University (he/they)"
+  email: "rxj377@case.edu"
+  contact: true
+- name: "Theo Johnson-Freyd"
+  info: "Assistant Professor (He/Him/His or They/Them/Their)"
+  email: "theojf@dal.ca"
+  website: "http://categorified.net/"
+  contact: true
+- name: "Oli Jones"
+  info: "PhD Student, Heriot-Watt University Edinburgh (They/Them)"
+  email: "oj2003@hw.ac.uk"
+  website: "https://sites.google.com/view/olijones"
+  contact: true
+- name: "Richter Jordaan"
+  info: "PhD Student, Georgia Tech (he/him)"
+  contact: true
+- name: "Deepak Kamlesh"
+  info: "Postdoc at the Max Planck Institute for Mathematics, Bonn"
+  email: "kamlesh@mpim-bonn.mpg.de"
+- name: "Ray Karpman"
+  info: "Assistant Professor, Otterbein University (they/them or she/her)"
+  email: "karpman1@otterbein.edu"
+  website: "https://sites.google.com/view/rachel-karpman/"
+  contact: true
+- name: "Brian (BK) Katz"
+  info: "Assistant Professor of Mathematics Education, CSU Long Beach (any/no preference)"
+  contact: true
+- name: "Jenny Kaufmann"
+  info: "PhD student at Harvard University (She/her)"
+  contact: true
+- name: "Leonie Kayser"
+  info: "PhD student, MPI MiS Leipzig, Germany (she)"
+  email: "leo.kayser@mis.mpg.de"
+  website: "https://leokayser.github.io"
+  contact: true
+- name: "Liam Keenan"
+  info: "Graduate Student (they/them)"
+  email: "keena169@umn.edu"
+  website: "https://sites.google.com/view/liam-keenan/home"
+  contact: true
+- name: "Annaliese Keiser"
+  info: "Graduate Student Instructor - University of Michigan (she/her/hers)"
+  email: "annalieseekeiser@gmail.com"
+- name: "Jan Kelkel"
+  info: "Actuary (they/them)"
+- name: "Mitch Keller"
+  info: "Assistant Professor of Mathematics, Morningside College (he/his)"
+  contact: true
+- name: "Tyler Kelly"
+  info: "Professor of Pure Mathematics (they/he)"
+  email: "t.kelly.1@bham.ac.uk"
+  website: "https://sites.google.com/view/tylerkelly/home"
+  contact: true
+- name: "Michael Kelly"
+  info: "Associate Professor, Transylvania University (he/him)"
+  email: "mikelly@transy.edu"
+  contact: true
+- name: "Aubrey Kemp"
+  info: "Assistant Professor, California State University Bakersfield (She/her/hers)"
+  email: "Akemp2@csub.edu"
+  contact: true
+- name: "Tara Kemp"
+  info: "PhD student, University of Queensland (they/them)"
+  email: "t.kemp@uq.net.au"
+  website: "https://tarakemp.net/"
+  contact: true
+- name: "Daniel Ketover"
+  info: "Associate Professor, Rutgers University"
+  email: "dketover@gmail.com"
+  contact: true
+- name: "Isabel Killeen"
+  info: "Bisexual woman; master's student at the University of Kent (She/her)"
+  email: "ijk3@kent.ac.uk"
+  contact: true
+- name: "Hannah Kimbrell-Clavenna"
+  info: "Assistant Professor at UNG (She/Her/Hers)"
+- name: "Inbar Klang"
+  info: "Assistant Professor, VU Amsterdam (she/her)"
+- name: "Teresa Klatzer"
+  info: "Postdoc at University of Edinburgh (she/her)"
+  email: "teresa.klatzer@gmail.com"
+  website: "https://teresa-klatzer.github.io/"
+- name: "Swan Klein"
+  info: "PhD Student at George Mason University (she/her)"
+  email: "sklein12@gmu.edu"
+  contact: true
+- name: "Hannah Klion"
+  info: "Computational Research Scientist, Lawrence Berkeley National Laboratory"
+  email: "hannah.klion@gmail.com"
+  website: "https://klion.org"
+  contact: true
+- name: "Emma Knobloch"
+  info: "M.S. Student at the University of Iowa (she/her)"
+  email: "eeknobloch@uiowa.edu"
+  contact: true
+- name: "Thomas Koberda"
+  info: "Associate Professor, University of Virginia (he/him)"
+  email: "tmk5a@virginia.edu"
+  contact: true
+- name: "E Koenig"
+  info: "Graduate Student at University of Minnesota - Twin Cities (they/them)"
+  email: "koeni417@umn.edu"
+  contact: true
+- name: "Astra Kolomatskaia"
+  info: "PhD student, Stony Brook University (she/her)"
+  email: "astra.kolomatskaia@gmail.com"
+  contact: true
+- name: "Joscelyn Kooistra"
+  info: "Post-bacc, University of Michigan - Ann Arbor (she / her / hers)"
+  email: "kooipond@umich.edu"
+- name: "Jay Kropf"
+  info: "Accelerated Masters of Statistics student at Cleveland State University (he/him/fae)"
+  contact: true
+- name: "Prabhat Kumar"
+  info: "MSc., Teaching Assistant (He/Him)"
+  email: "prabhat.kumar@uni-wuppertal.de"
+  contact: true
+- name: "Andrea Lachmann"
+  info: "PhD student at University of Wuppertal (she/her)"
+  email: "lachmann@uni-wuppertal.de"
+  contact: true
+- name: "Max Lahn"
+  info: "PhD Student, University of Michigan (they/them)"
+  email: "maxlahn@umich.dedu"
+  website: "https://sites.google.com/view/maxlahn/"
+  contact: true
+- name: "Evelyn Lamb"
+  info: "freelance writer (she/her)"
+  email: "evel8yn@gmail.com"
+  website: "http://evelynjlamb.com"
+  contact: true
+- name: "Chris Lang"
+  info: "Professor Emeritus of Mathematics, Indiana University Southeast (He/him)"
+  email: "wclang@iu.edu"
+  contact: true
+- name: "Jackie Lang"
+  info: "Oxford University (she/her/hers)"
+- name: "MJ Larios"
+  info: "Undergrad math major (they/he)"
+  email: "fatima19@g.ucla.edu"
+  contact: true
+- name: "Michael Lavigne"
+  info: "Visiting Assistant Professor, Georgia Institute of Technology (he/him)"
+  email: "glavigne3@gatech.edu"
+  website: "http://gmlavigne.com"
+  contact: true
+- name: "Davis Lazowski"
+  info: "Graduate Student, Columbia University (he/him/his)"
+  contact: true
+- name: "Matthew Lemoine"
+  info: "PhD Student at Louisiana State University (he/him/his)"
+  email: "mlemo36@lsu.edu"
+  website: "https://www.matthewlemoine.com/"
+  contact: true
+- name: "Jacob Lerma"
+  info: "PhD Student at University of Chicago (he/Him/His)"
+  email: "lerma@uchicago.edu"
+  contact: true
+- name: "Jake Levinson"
+  info: "Assistant Professor, Simon Fraser University (he/him)"
+  email: "jake_levinson@sfu.ca"
+  contact: true
+- name: "Paul Levy"
+  info: "Professor of Theoretical Computer Science, University of Birmingham (he)"
+  email: "p.b.levy@bham.ac.uk"
+  website: "https://pblevy.github.io"
+  contact: true
+- name: "Emmy Lewis"
+  info: "PhD Candidate, Cornell University (she/her)"
+  email: "jl2826@cornell.edu"
+  contact: true
+- name: "Yilin Li"
+  info: "PhD student at Durham University, UK (He/him/his)"
+  email: "yilin.li.0618@gmail.com"
+  website: "https://sites.google.com/view/yilin-li-homepage/home"
+  contact: true
+- name: "Shana Li"
+  info: "PhD Student, University of Illinois Urbana-Champaign (She/Her)"
+  email: "yl202@illinois.edu"
+  website: "https://shana-y-li.github.io"
+  contact: true
+- name: "Micah Li"
+  info: "PhD at UMN (he/him/his)"
+  email: "li004438@umn.edu"
+  website: "https://micah-li.github.io"
+  contact: true
+- name: "Tye Lidman"
+  info: "North Carolina State University"
+  email: "tlid@math.ncsu.edu"
+- name: "Emma Lien"
+  info: "Phd Student ((She/her))"
+  contact: true
+- name: "Willie Rush Lim"
+  info: "Tamarkin Assistant Professor, Brown University (He/him/his)"
+  website: "https://willierushrush.github.io"
+  contact: true
+- name: "Douglas Lind"
+  info: "Professor, University of Washington (he/him/his)"
+  contact: true
+- name: "Owen Liu"
+  info: "Undergrad at University of Minnesota (they/them)"
+  contact: true
+- name: "Marina Logares"
+  info: "Visiting Professor at Universidad Complutense de Madrid (She/ her)"
+  email: "mlogares@ucm.es"
+  website: "https://www.ucm.es/marina_logares/"
+  contact: true
+- name: "Katharine Long"
+  info: "Professor of Mathematics, Texas Tech University (She/Her/Hers)"
+  email: "Katharine.long@ttu.edu"
+  website: "https://www.math.ttu.edu/~klong/"
+- name: "Bob Lubarsky"
+  info: "Senior Instructor, FAU (I, me, mine)"
+  email: "robertlubarsky@att.net"
+  contact: true
+- name: "Jonathan Lubin"
+  info: "Professor of Mathematics, emeritus, Brown University (he-him)"
+  email: "lubinj@math.brown.edu"
+  website: "http://www.math.brown.edu/~/lubinj"
+  contact: true
+- name: "Jeri Luckenbaugh"
+  info: "Math PhD Student @ UC San Diego (she/fae)"
+  email: "jluckenbaugh@ucsd.edu"
+  website: "https://jerivl.github.io"
+  contact: true
+- name: "Christopher Luevano"
+  info: "Graduate Student, New Mexico State University (He/him/his)"
+  email: "cluevano1128@gmail.com"
+  website: "https://chrisaluevano.com"
+- name: "Robbie Lyman"
+  info: "Assistant Professor, Rutgers University–Newark (he/him)"
+  email: "robbie.lyman@rutgers.edu"
+  website: "https://alanza.xyz"
+  contact: true
+- name: "Mark MacLean"
+  info: "Professor, Seattle University (he/him, they/them)"
+  contact: true
+- name: "Sarah MacQueen"
+  info: "Postdoc, University College Dublin (she/her)"
+  email: "sarah.macqueen@ucd.ie"
+  contact: true
+- name: "Kyle Maddox"
+  info: "Visiting Assistant Professor at the University of Arkansas (he/him)"
+  email: "kmaddox@uark.edu"
+  website: "https://sites.google.com/view/kylemaddox"
+  contact: true
+- name: "Augusto Magalhães"
+  info: "PhD student at Aalto University (He/Him/His)"
+  email: "augusto.fontenele@outlook.com"
+  contact: true
+- name: "Michael Maltenfort"
+  info: "College Adviser & Asst Prof of Instruction, Northwestern University (he/him/his)"
+  email: "malt@northwestern.edu"
+  contact: true
+- name: "Alex Manchester"
+  info: "PhD Student (they)"
+  email: "Alex.Manchester@rice.edu"
+  website: "https://sites.google.com/view/alexmanchester/home"
+  contact: true
+- name: "Fedya Manin"
+  info: "Associate Professor, University of Toronto (he/him)"
+  website: "https://www.math.toronto.edu/~manin"
+  contact: true
+- name: "Victor Marçon Pirozelli"
+  info: "PhD student (Univeristy of Montpellier) (he/they)"
+  email: "vmpirozelli@gmail.com"
+  contact: true
+- name: "Christopher Marcotte"
+  info: "Assistant Professor in Computer Science at Durham University (They/them)"
+  email: "christopher.marcotte@durham.ac.uk"
+  contact: true
+- name: "Alice Mark"
+  info: "Senior Lecturer, Vanderbilt University (she/her)"
+  website: "https://as.vanderbilt.edu/math/bio/?who=alice-mark"
+  contact: true
+- name: "Ioannis Markakis"
+  info: "Research Assistant, University of Cambridge (they/he)"
+  email: "ioannis.markakis@cl.cam.ac.uk"
+  website: "https://jmarkakis.github.io/"
+  contact: true
+- name: "Brittney Marsters"
+  info: "PhD Student (she/her/hers)"
+  contact: true
+- name: "Gage Martin"
+  info: "Benjamin Peirce Fellow (Harvard University) (she/her)"
+  email: "gagemartin@math.harvard.edu"
+  website: "https://sites.google.com/view/gagemartin/home"
+  contact: true
+- name: "Patrick Martin"
+  info: "Graduate Student, Johns Hopkins University (He/him)"
+  email: "mpmartin@jhu.edu"
+  contact: true
+- name: "Kirin Martin"
+  info: "Lecturer at Iowa State University (they/them // e/em)"
+  email: "kirinjmartin@gmail.com"
+  website: "https://sites.google.com/iastate.edu/kirin-martin/"
+  contact: true
+- name: "Jade Master"
+  info: "trans PhD Student/TA, University of California Riverside (She/Her)"
+  email: "Jmast003@ucr.edu"
+  website: "https://sites.google.com/view/jadeedenstarmaster/home"
+  contact: true
+- name: "Udit Mavinkurve"
+  info: "PhD Student (he/him)"
+  email: "umavinku@uwo.ca"
+  contact: true
+- name: "Clover May"
+  info: "Research Fellow, University of Bristol"
+  email: "clover.may@bristol.ac.uk"
+  website: "https://clovermay.github.io/"
+- name: "Catrina May"
+  info: "Assistant Professor at University of North Georgia ((she/her))"
+  email: "catrina.may@ung.edu"
+  contact: true
+- name: "Ryan Mc Gowan"
+  info: "Ph.D. Student at Rutgers, the State University of New Brunswick (He/him)"
+  website: "https://sites.google.com/view/ryanmcgowan/home"
+  contact: true
+- name: "Taylor McAdam"
+  info: "Visiting Assistant Professor at Pomona College (she/her)"
+  email: "taylor.mcadam@pomona.edu"
+  website: "https://sites.google.com/view/taylor-mcadam/"
+  contact: true
+- name: "Conor McCoid"
+  info: "Postdoc at McMaster University (He/Him)"
+  website: "https://conormccoid.com"
+- name: "Colin McKinney"
+  info: "Associate Professor of Mathematics and Computer Science, Wabash College (He/his/him; αὐτός -οῦ; ghaH)"
+  email: "mckinnec@wabash.edu"
+  contact: true
+- name: "Caleb McWhorter"
+  info: "Assistant Professor of Mathematics, St. Thomas Aquinas College (He/Him/His)"
+  email: "cmcwhort@stac.edu"
+  website: "https://coffeeintotheorems.com/"
+  contact: true
+- name: "Harley Meade"
+  info: "PhD Student - Colorado State University (she/her)"
+  email: "harley.meade@colostate.edu"
+- name: "Aisha Mechery"
+  info: "PhD student, Rice University (they/them)"
+  contact: true
+- name: "Everett Meike"
+  info: "Graduate Student, North Carolina State University (They/Them)"
+  email: "emeike@ncsu.edu"
+  contact: true
+- name: "Ehud Meir"
+  info: "Senior lecturer, University of Aberdeen"
+  email: "meirehud@gmail.com"
+  contact: true
+- name: "Kate Melhuish"
+  info: "Associate Professor, Texas State University (Any)"
+  contact: true
+- name: "Matt Menickelly"
+  info: "Computational Mathematician, ANL (They/them/theirs)"
+  email: "mmenickelly@anl.gov"
+  website: "https://press3.mcs.anl.gov/mattmenickelly/"
+  contact: true
+- name: "Nick Meyer"
+  info: "University of Central Missouri (He/him/his)"
+  website: "https://nickmeyer.me"
+  contact: true
+- name: "Annie Meyers"
+  info: "Teaching Assistant, AoPS (she/her)"
+  contact: true
+- name: "Marcus Michelen"
+  info: "Assistant Professor at Northwestern University (He/him)"
+  email: "michelen.math@gmail.com"
+  website: "https://marcusmichelen.org/"
+  contact: true
+- name: "Jacob Migdail"
+  info: "Visiting Assistant Professor, Washington & Lee University (He/Him)"
+  contact: true
+- name: "Sam Miller"
+  info: "Graduate Student, University of Hawai’i at Mānoa (He/Him)"
+  email: "millers3@hawaii.edu"
+  contact: true
+- name: "Sam Miller"
+  info: "University of Georgia, Postdoc (he/him)"
+  website: "https://www.samkmiller.com"
+  contact: true
+- name: "Mike Miller Eismeier"
+  info: "Assistant Professor, University of Vermont (he/him)"
+  contact: true
+- name: "Hector Miller-Bakewell"
+  info: "PhD student (they/them or xe/xer)"
+  website: "https://hjmb.co.uk"
+  contact: true
+- name: "Myron Minn-Thu-Aye"
+  info: "Associate Professor in Residence, University of Connecticut (he/him)"
+  email: "myron.minn-thu-aye@uconn.edu"
+  website: "https://www2.math.uconn.edu/~myron/Home.html"
+  contact: true
+- name: "Ender Minyard"
+  info: "Graduate student, NYU (No pronouns)"
+  contact: true
+- name: "Aden Mobley"
+  info: "Undergraduate Student at Morehouse College (He/Him)"
+  email: "ADMobley2747@gmail.com"
+  contact: true
+- name: "Imogen Montague"
+  info: "Postdoc at UT Austin (she/they)"
+  email: "imogen.montague@austin.utexas.edu"
+  website: "https://sites.google.com/view/imogenmontague"
+  contact: true
+- name: "Hermie Monterde"
+  info: "PhD student (she/her/hers)"
+  email: "monterdh@myumanitoba.ca"
+  contact: true
+- name: "Samantha Moore"
+  info: "Math Instructor, North Carolina School of Science and Math- Morganton (she/her)"
+  contact: true
+- name: "Sophie Morin"
+  info: "Postdoc at École Polytechnique de Montréal (she/her)"
+  email: "sophmac@math.ubc.ca"
+  website: "https://sites.google.com/view/sophie-tamar-morin"
+  contact: true
+- name: "Anton Mors"
+  info: "MSc Student, University of Bonn (he/him)"
+  email: "anton.mors@morsmedia.de"
+  contact: true
+- name: "Carrie Muir"
+  info: "Mathematics Professor and Department Chair, Whatcom Community College (she/her or they/them)"
+  email: "cmuir@whatcom.edu"
+- name: "Terry Mullen"
+  info: "Staff Member/Lecturer at the University of Massachusetts Amherst (they/them)"
+  email: "thmullen@math.umass.edu"
+  website: "https://people.math.umass.edu/~thmullen"
+  contact: true
+- name: "Emmy Murphy"
+  info: "Professor (She/her)"
+  contact: true
+- name: "Riley Murray"
+  info: "Senior Member of Technical Staff at Sandia National Laboratories (he/him)"
+  email: "rjmurray@berkeley.edu"
+  website: "https://rileyjmurray.com"
+  contact: true
+- name: "Joseph Nakao"
+  info: "Assistant Professor of Mathematics, Swarthmore College (he/him)"
+  email: "jnakao1@swarthmore.edu"
+  website: "https://jhknakao.github.io/"
+  contact: true
+- name: "Taeuk Nam"
+  info: "Graduate Student"
+- name: "Wyn Nelson"
+  info: "Graduate Student, North Carolina State University (She/Her)"
+  email: "wlnelson@ncsu.edu"
+  website: "https://wynnelson.com"
+  contact: true
+- name: "Alex Newman"
+  info: "PhD student at UGA (He/him)"
+  email: "Alxjames@uga.edu"
+  contact: true
+- name: "Peh Ng"
+  info: "Professor of Mathematics, and Acting Vice-chancellor for Academic Affairs & Dean (She/her/hers)"
+  email: "pehng@morris.umn.edu"
+  website: "http://facultypages.morris.umn.edu/~pehng"
+  contact: true
+- name: "Margaret Nichols"
+  info: "Simons Postdoc, Fields Institute (she/her/hers)"
+  email: "mnichols@fields.utoronto.ca"
+  website: "http://margaretnichols.me"
+  contact: true
+- name: "Seppo Niemi-Colvin"
+  info: "Graduate Student, Duke University (He/Him or They/Them)"
+  email: "mhansoncol@gmail.com"
+  contact: true
+- name: "Zoe Nieraeth"
+  info: "Postdoc at the Basque Center for Applied Mathematics (She/her)"
+  email: "zoe.nieraeth@gmail.com"
+  website: "https://sites.google.com/view/zoe-nieraeth/home"
+  contact: true
+- name: "Jonathan Niles-Weed"
+  info: "Assistant Professor of Mathematics and Data Science, NYU"
+  website: "http://jonathannilesweed.com"
+  contact: true
+- name: "Robert Nowak"
+  info: "Master's student, University of Oldenburg (He/Him)"
+  email: "robert-nowak@online.de"
+  contact: true
+- name: "Jo O'Harrow"
+  info: "PhD Student, UO (they/them)"
+  email: "joharrow@uoregon.edu"
+  contact: true
+- name: "TC O'Neil"
+  info: "Senior Lecturer in Analysis at The Open University (she/they/them)"
+  email: "t.c.oneil@open.ac.uk"
+  website: "https://www.open.ac.uk/people/tcon2"
+  contact: true
+- name: "Peter Oberly"
+  info: "PhD Student, Oregon State University (He/him)"
+  email: "oberlyp@oregonstate.edu"
+  contact: true
+- name: "Jessie Oehrlein"
+  info: "Assistant Professor, Fitchburg State University (she/her)"
+  email: "jessoehrlein@gmail.com"
+  website: "https://jessoehrlein.weebly.com/"
+  contact: true
+- name: "Marielle Ong"
+  info: "Ph.D. student, University of Pennsylvania (They/Them)"
+  website: "https://sites.google.com/site/marielleongswebpage/marielle-ong"
+  contact: true
+- name: "Jadzia Onorati-Phillips"
+  info: "MS Student at Wayne State University (She/Her)"
+  email: "jonoratiphillips@gmail.com"
+  contact: true
+- name: "Ella Oren-Dahan"
+  info: "Graduate Student, Montclair State University (she/her)"
+  email: "orendahane1@montclair.edu"
+  contact: true
+- name: "Maya Ornstein"
+  info: "PhD Student, University of Colorado Boulder (She/They)"
+  email: "maya.ornstein@colorado.edu"
+- name: "Omayra Ortega"
+  info: "Associate Professor, Assistant Dean of Research & Internships (any pronouns)"
+  contact: true
+- name: "Peter Ott"
+  info: "Actuary (He, Him)"
+  email: "peter.james.ott@gmail.com"
+  website: "https://www.linkedin.com/in/peter-ott-b604ab38/"
+  contact: true
+- name: "Nina Otter"
+  info: "Inria Starting Faculty, Inria-Saclay, France (her/they)"
+  website: "https://ninaotter.com"
+  contact: true
+- name: "James Pagán"
+  info: "Undergraduate Student in Mathematics (he/him)"
+  email: "jcp9619@nyu.edu"
+  contact: true
+- name: "Davide Palitta"
+  info: "Assistant Professor, Alma Mater Studiorum, University of Bologna (He/Him)"
+  email: "davide.palitta@unibo.it"
+  website: "https://sites.google.com/site/palittadavide/home?authuser=0"
+  contact: true
+- name: "Rebekah Palmer"
+  info: "Visiting Assistant Teaching Professor, Villanova University (any pronouns)"
+  email: "rebekah.palmer@villanova.edu"
+- name: "Jiayin Pan"
+  info: "Assistant Professor, University of California, Santa Cruz (he/they)"
+  email: "jypan10@gmail.com"
+  website: "https://jypan10.github.io/"
+- name: "Laz Panard"
+  info: "PhD Student, University of Montpellier (France) (they/them)"
+  email: "laz.panard@lirmm.fr"
+  website: "https://laz-panard.github.io/"
+  contact: true
+- name: "Gil Parnon"
+  info: "PhD Student (He/Him/His)"
+  email: "parnong@oregonstate.edu"
+- name: "Stephan Patterson"
+  info: "Associate Professor of Mathematics, Louisiana State University in Shreveport (he/they)"
+  email: "drsteveatlsus@gmail.com"
+  contact: true
+- name: "Micheal Pawliuk"
+  info: "Assisstant Professor, Teaching Stream (he/him)"
+  email: "m.pawliuk@utoronto.ca"
+  website: "http://mikepawliuk.ca"
+  contact: true
+- name: "Thomas Peebles"
+  info: "Instructor Arizona State University (He/Him/His)"
+  email: "tdpeeble@asu.edu"
+  contact: true
+- name: "Luke Peilen"
+  info: "Ph.D. Student, New York University (they/them)"
+  website: "https://cims.nyu.edu/~lkp279/index.html"
+  contact: true
+- name: "Maximilien Péroux"
+  info: "Postdoc at the University of Pennsylvania (He/Him/His)"
+  email: "mperoux@sas.upenn.edu"
+  website: "http://maximilienperoux.com"
+  contact: true
+- name: "Laura Petto"
+  info: "Graduate Student, Dartmouth (she/her)"
+  email: "laurarpetto@gmail.com"
+  website: "https://math.dartmouth.edu/~laurarpetto/"
+  contact: true
+- name: "Karaline Petty"
+  info: "Graduate Student, University of Arizona ((she/her)"
+  email: "karalinepetty@math.arizona.edu"
+  contact: true
+- name: "Alexandra Pichette-Emmons"
+  info: "PhD Student at University of Kentucky (she/her)"
+  email: "alexandra.pichette-emmons@uky.edu"
+  contact: true
+- name: "Emma Pickard"
+  info: "PhD Student at the University of Kentucky (she/her)"
+  email: "ehpickard@uky.edu"
+  website: "https://sites.google.com/view/pickmath/home"
+  contact: true
+- name: "Evelyn Pidcock"
+  info: "PhD Student, UC Davis (she/her)"
+  email: "ejpidcock@ucdavis.edu"
+  website: "https://evepidcock.github.io/"
+  contact: true
+- name: "Marta Pieropan"
+  info: "Assistant Professor, Utrecht University"
+  email: "m.pieropan@uu.nl"
+  website: "https://webspace.science.uu.nl/~piero001/"
+  contact: true
+- name: "David Pike"
+  info: "Professor, Memorial University of Newfoundland (he/him/his)"
+  website: "https://www.math.mun.ca/~dapike/"
+  contact: true
+- name: "Cecile Piret"
+  info: "Associate professor, Michigan Technological University"
+  website: "https://www.linkedin.com/in/cecile-piret-5931682/"
+  contact: true
+- name: "Maciej Piwowarczyk"
+  info: "Graduate Student, University of Nebraska-Lincoln (He/Him)"
+  email: "mpiwowarczyk2@huskers.unl.edu"
+  contact: true
+- name: "Ashlen Plasek"
+  info: "Masters Student at University of Minnesota, Twin Cities (She/Her)"
+  contact: true
+- name: "Dasha Poliakova"
+  info: "Posdoc at SDU QM"
+  email: "polydarya@gmail.com"
+  contact: true
+- name: "Zoe Pope"
+  info: "PhD Student; SUNY at Albany (UAlbany) (She/her)"
+  email: "zoe@worknotes.org"
+  contact: true
+- name: "Gabriel Porrata Vallejo"
+  info: "Mathematics Instructor, Mission College (He/Him/His)"
+  email: "Gabriel.Porrata@MissionCollege.edy"
+  contact: true
+- name: "Mary Porter"
+  info: "Professor, Saint Mary's College Dept. of Math and Computer Science (she/they)"
+  contact: true
+- name: "Morena Porzio"
+  info: "Columbia University (they/them)"
+  email: "morenaporzio@gmail.com"
+  website: "https://www.math.columbia.edu/~morenaporzio/"
+  contact: true
+- name: "Andrew Potter"
+  info: "Staff Tutor in Mathematics & Statistics, The Open University (he/him/his)"
+  email: "Andrew.Potter@open.ac.uk"
+  website: "https://www.open.ac.uk/stem/mathematics-and-statistics/people/adjp2"
+  contact: true
+- name: "Amy Beth Prager"
+  info: "NCWIT, Aspirations Team (she/her/hers)"
+  email: "amybethx@rocketmail.com"
+- name: "Eddie Price"
+  info: "Assistant Professor of Practice, Purdue University (in Indianapolis) (he/they)"
+  email: "price79@purdue.edu"
+  website: "https://www.edwardpriceiii.com/"
+  contact: true
+- name: "Stanley Pritchard"
+  info: "Mathematics Instructor, Durham Technical Community College (he/him)"
+  email: "pritchards@durhamtech.edu"
+  website: "https://sites.google.com/view/pritchard"
+  contact: true
+- name: "Piotr Przytycki"
+  info: "Professor at McGill University (he/him)"
+  email: "piotr.przytycki@mcgill.ca"
+  website: "https://www.math.mcgill.ca/pprzytyc/"
+  contact: true
+- name: "tahda queer"
+  info: "Undergraduate at Hunter College, City University of New York (CUNY) (ta or any gender neutral pronouns)"
+  email: "taqueer.proton.me"
+  contact: true
+- name: "Emily Quesada-Herrera"
+  info: "Postdoc at Graz University of Technology (she/her)"
+  email: "quesada@math.tugraz.at"
+  website: "https://sites.google.com/view/quesada-herrera/home"
+- name: "Keaton Quinn"
+  info: "Visiting Assistant Professor, Boston College (he/him)"
+  email: "keaton.quinn@bc.edu"
+  contact: true
+- name: "Rebecca R.G."
+  info: "Assistant Professor, George Mason University (she/her/hers)"
+  email: "rrebhuhn@gmu.edu"
+  website: "https://sites.google.com/site/rebeccargmath/"
+- name: "Luna Rabay"
+  info: "Graduate student at Federal University of Paraíba (Brazil) (she/her)"
+  email: "lunarabay@gmail.com"
+  contact: true
+- name: "Sriram Raghunath"
+  info: "PhD student Rutgers University (He/him)"
+  email: "raghunathsriram@gmail.com"
+  website: "https://sites.math.rutgers.edu/~sr1508/index.html"
+  contact: true
+- name: "Simone Ramello"
+  info: "PhD Student, WWU Münster (he/him)"
+  website: "http://simoneramello.net"
+  contact: true
+- name: "Tabitha Ramirez"
+  info: "Undergraduate student, The City College of New York (She/her)"
+  contact: true
+- name: "Cole Rank"
+  info: "Data Scientist at GM (He)"
+  email: "Colerank12@gmail.com"
+  website: "http://linkedin.com/in/nicholas-rank-a18688100"
+  contact: true
+- name: "Shane Rankin"
+  info: "PhD Student - UC Riverside (He/Him/His)"
+  email: "srank007@ucr.edu"
+  contact: true
+- name: "Nicolas Raymond"
+  info: "Professor, Université d'Angers, France (He/him/his)"
+  contact: true
+- name: "Gregorio Raymundo"
+  info: "PhD student"
+  email: "garaymundo@up.edu.ph"
+  contact: true
+- name: "Sarah Raynor"
+  info: "Professor and Chair, Wake Forest University Department of Mathematics and Statistics (she/her/hers)"
+  email: "raynorsg@wfu.edu"
+  contact: true
+- name: "Mary Lynn Reed"
+  info: "Professor, School of Mathematics and Statistics, Rochester Institute of Technology (she/her/hers)"
+  email: "mlrsma@rit.edu"
+  website: "https://www.rit.edu/directory/mlrsma-mary-lynn-reed"
+  contact: true
+- name: "Karim Rega"
+  info: "PhD student at University of Edinburgh (Any)"
+  email: "karim.rega@ed.ac.uk"
+  contact: true
+- name: "River Reger"
+  info: "Mathematician at Arete (She/her)"
+  email: "rreger@arete.com"
+  website: "https://www.linkedin.com/in/rreger/"
+  contact: true
+- name: "Jesse Reid"
+  info: "Teacher, middle school math; California (she/they)"
+  email: "jessecalsilva@gmail.com"
+  contact: true
+- name: "Lily Reisch"
+  info: "phd candidate (she/her)"
+  email: "lilyrsch@gmail.com"
+  contact: true
+- name: "Dee Ann Reisinger"
+  info: "PhD student, Bryn Mawr College (she/they)"
+  email: "dreisinger@brynmawr.edu"
+  contact: true
+- name: "Thomas Richards"
+  info: "PhD Student, University of Warwick (he/they)"
+  email: "thomas.richards@warwick.ac.uk"
+  contact: true
+- name: "Evelyn Richman"
+  info: "Assistant Professor, University of Puget Sound (She/Her)"
+  email: "evelyn.richman2@gmail.com"
+  website: "https://sites.google.com/uic.edu/evelyn-richman/home"
+  contact: true
+- name: "Emily Riehl"
+  info: "Professor, Johns Hopkins University (she/her)"
+  email: "eriehl@jhu.edu"
+  website: "https://emilyriehl.github.io"
+  contact: true
+- name: "Matt Rigby"
+  info: "Financial Aid Assistant (He / Him)"
+  contact: true
+- name: "Luciano Rila"
+  info: "Associate Professor (Teaching), UCL (he/him)"
+  email: "l.rila@ucl.ac.uk"
+  contact: true
+- name: "Gilbert Rivera"
+  info: "PhD Student, Central Michigan University (he/him/his)"
+  email: "river4g@cmich.edu"
+  contact: true
+- name: "Ethan Rivera"
+  info: "Undergraduate Student at University of Maryland, College Park (He/They)"
+  contact: true
+- name: "Michael Robert"
+  info: "Assistant Professor, Virginia Tech (he/him/his)"
+  email: "michaelrobert@vt.edu"
+  website: "https://personal.math.vt.edu/michaelrobert/"
+  contact: true
+- name: "Rachel Roca"
+  info: "Ph.D. Student at Michigan State University in Computational Math, Science, and Engineering (she/her/hers)"
+  email: "rocarach@msu.edu"
+  website: "https://sites.google.com/manhattan.edu/racheleroca/home"
+  contact: true
+- name: "Jamie Rogers"
+  info: "PhD Student Liverpool University (He)"
+  email: "jamie.rogers@liv.ac.uk"
+  contact: true
+- name: "Ryan Rogers"
+  info: "Lecturer in Mathematics, University of Dayton (he/him/his)"
+  email: "rogersr4@udayton.edu"
+  website: "https://udayton.edu/directory/artssciences/mathematics/rogers-ryan.php"
+  contact: true
+- name: "Taylor Rogers"
+  info: "Graduate Student (He/They)"
+  email: "taro5294@colorado.edu"
+  contact: true
+- name: "Herman Rohrbach"
+  info: "PhD student (They/them)"
+- name: "Erika Berenice Roldan Roa"
+  info: "Research Group Leader MPI MiS and ScaDS.AI Leipzig University (They/Them or She/Her)"
+  email: "roldan@mis.mpg.de"
+  website: "https://www.erikaroldan.net"
+  contact: true
+- name: "Joseph Romano"
+  info: "Professor of Statistics (he/him)"
+  email: "romano@stanford.edu"
+  website: "https://profiles.stanford.edu/joseph-romano"
+  contact: true
+- name: "Eric Roon"
+  info: "PhD student, Graduate Teaching Assistant at the University of Arizona (He/him)"
+- name: "A. Gwinn Royal"
+  info: "Associate Professor of Mathematics, Ivy Tech Community College (they/he/she)"
+  email: "aroyal9@ivytech.edu"
+  contact: true
+- name: "Em Rushworth"
+  info: "PhD Student in Statistics (They/them)"
+  email: "rushworthmj@gmail.com"
+  website: "http://emrstats.github.io"
+  contact: true
+- name: "Lauren Ruth"
+  info: "Assistant Professor, Mercy College (She/her/hers)"
+  contact: true
+- name: "Lucy Rycroft-Smith"
+  info: "Academic, Cambridge Mathematics (She/her)"
+  email: "Lucy.rycroft-smith@cambridgemaths.org"
+  contact: true
+- name: "Simon Rydin Myerson"
+  info: "WZL assistant professor, University of Warwick (he/they)"
+  email: "simon.rydin-myerson@warwick.ac.uk"
+  website: "https://maths.fan"
+  contact: true
+- name: "Ryker Ryker"
+  info: "Adjunct Math Faculty, Foothill College (They/Them)"
+  email: "rykerjody@fhda.edu"
+  contact: true
+- name: "Nikhil Sahoo"
+  info: "PhD Candidate (they/them)"
+  email: "nikhil.bukowski@gmail.com"
+  website: "https://e.math.cornell.edu/people/Nikhil_Sahoo/Home.html"
+  contact: true
+- name: "David Saintillan"
+  info: "Professor, University of California San Diego (he/him/his)"
+  email: "dsaintillan@ucsd.edu"
+  website: "http://stokeslet.ucsd.edu"
+  contact: true
+- name: "Dalton Sakthivadivel"
+  info: "Postdoc, CUNY GC (he/they)"
+  email: "dalton.sakthi@gmail.com"
+  website: "https://darsakthi.github.io/"
+  contact: true
+- name: "Kyle Salois"
+  info: "PhD Student, Colorado State University (he/him)"
+  email: "kylesalo@colostate.edu"
+  contact: true
+- name: "Karuna Sangam"
+  info: "PhD student, Rutgers University - New Brunswick (they/them)"
+  email: "kss159@math.rutgers.edu"
+  website: "https://sites.math.rutgers.edu/~kss159/"
+  contact: true
+- name: "Sean Santos"
+  info: "Earth Scientist, Pacific Northwest National Laboratory (They/he)"
+  email: "seanpatricksantos@gmail.com"
+  contact: true
+- name: "Shinx Shfinx Sarah"
+  info: "Student (Cat/she)"
+- name: "Keri Sather-Wagstaff"
+  info: "Professor, Clemson University (She/her)"
+  email: "ssather@clemson.edu"
+  website: "https://ssather.people.clemson.edu/"
+  contact: true
+- name: "Riuji Sato"
+  info: "PhD student at Worcester Polytechnic Institute (He/him/his)"
+  email: "riuji.sato@gmail.com"
+  contact: true
+- name: "Mariya Savinov"
+  info: "PhD Student (they/them)"
+  email: "mas10009@nyu.edu"
+  website: "https://cims.nyu.edu/~mas10009"
+  contact: true
+- name: "Jordan Sawdy"
+  info: "PhD Student at the University of Kentucky (He/They)"
+  email: "jordan.sawdy@uky.edu"
+  contact: true
+- name: "Colton Sawyer"
+  info: "Associate Professor of Mathematics at Regis University (He/him/his)"
+  email: "csawyer002@regis.edu"
+  website: "https://www.coltonwsawyer.com/"
+- name: "Ed Schaefer"
+  info: "Professor at Santa Clara University (he/him/his)"
+  email: "eschaefer@scu.edu"
+  contact: true
+- name: "Kylan Schatz"
+  info: "Mathematics PhD Candidate at NC State University (they/them)"
+  email: "kaschatz@ncsu.edu"
+  contact: true
+- name: "Todd Schmid"
+  info: "Assistant Professor, St Mary's College of California (he/they)"
+  website: "http://toddtoddtodd.net"
+  contact: true
+- name: "Rick Schnackenberg"
+  info: "Assistant Professor, Florida Gulf Coast University"
+  email: "fschnackenberg@icloud.com"
+  contact: true
+- name: "Ryan Schroeder"
+  info: "PhD Student (he/him)"
+  email: "ryan.schroeder@uconn.edu"
+  website: "https://ryschroeder99.github.io/"
+  contact: true
+- name: "Adam Schultze"
+  info: "Assistant Professor, Lewis University (he/him/his)"
+  email: "aschultze@lewisu.edu"
+  contact: true
+- name: "David Schwein"
+  info: "Assistant Professor, University of Utah (he/him)"
+  email: "david.schwein@utah.edu"
+  website: "https://www.math.utah.edu/~schwein/"
+  contact: true
+- name: "Mitchell Scott"
+  info: "PhD Student, Emory University (he/they)"
+  email: "mitchell.scott@emory.edu"
+  website: "https://mtscott.github.io/"
+  contact: true
+- name: "Dev Seacrest"
+  info: "Professor of Mathematics at University of Montana Western, Director of the Center for Experiential Education (he/him)"
+  email: "dr.dseacrest@gmail.com"
+  contact: true
+- name: "Alex Dalist Howl Sennewald"
+  info: "Graduate Student and Student Assistant (they/them)"
+  email: "alex.sennewald@posteo.de"
+  contact: true
+- name: "Min Seo"
+  info: "Statistics/Teaching, Joint PMATH, Psychology undergrad student at University of Waterloo (they/them)"
+  email: "m22seo@uwaterloo.ca"
+  contact: true
+- name: "Alan Sergeev"
+  info: "PhD Student (he/him)"
+  email: "axs2492@student.bham.ac.uk"
+  contact: true
+- name: "Yi Shan"
+  info: "postdoc, University of Toronto (she/her)"
+  email: "yshan4180377600@gmail.com"
+  website: "https://www.y-shan.com"
+- name: "Isabelle Shankar"
+  info: "Assistant Professor, Portland State University (She/her)"
+  email: "isabelle.shankar@pdx.edu"
+  website: "https://sites.google.com/view/isabelle-shankar"
+  contact: true
+- name: "Kris Shaw"
+  info: "Associate Professor (they/them)"
+  email: "krisshaw@math.uio.no"
+  contact: true
+- name: "Eve Shaw"
+  info: "J.L. Doob Research Assistant Professor, University of Illinois Urbana-Champaign (she/her)"
+  email: "emshaw@illinois.edu"
+  website: "https://sites.google.com/view/eveshaw/home"
+  contact: true
+- name: "Alec Shute"
+  info: "Research fellow, University of Bristol (he/him)"
+  email: "alec.shute@bristol.ac.uk"
+  website: "https://sites.google.com/view/alecshute"
+  contact: true
+- name: "Sue Sierra"
+  info: "Professor, University of Edinburgh (she/her)"
+  email: "s.sierra@ed.ac.uk"
+  website: "https://webhomes.maths.ed.ac.uk/~ssierra/"
+  contact: true
+- name: "Anny Beatriz Silva de Azevedo"
+  info: "Master’s student, University of São Paulo (she/her)"
+  email: "annyb.azevedo@ime.usp.br"
+  contact: true
+- name: "Lily Silverstein"
+  info: "Assistant Professor, Mathematics and Statistics, Cal Poly Pomona (she/her or they/them)"
+  email: "lsilverstein@cpp.edu"
+  contact: true
+- name: "José Simental Rodríguez"
+  info: "Investigador Asociado C, Instituto de Matemáticas UNAM (He/Him/His)"
+  email: "simental@im.unam.mx"
+  contact: true
+- name: "Theresa Simon"
+  info: "Junior Professor, WWU Münster, Germany (she/her)"
+  email: "theresa.simon@uni-muenster.de"
+  website: "https://www.uni-muenster.de/AMM/simon/"
+  contact: true
+- name: "Joseph Skelton"
+  info: "RTG Postdoc at Clemson University (He/Him)"
+  email: "jwskelt@clemson.edu"
+  website: "http://sites.google.com/view/joseph-skelton"
+  contact: true
+- name: "Andrew Skelton"
+  info: "Associate Professor, York University (he/him)"
+  email: "askelton@yorku.ca"
+  contact: true
+- name: "Tyler Smith"
+  info: "Graduate student, University of Florida (He/him)"
+  contact: true
+- name: "Calvin Smith"
+  info: "Associate Professor, University of Reading (He/him)"
+  email: "Calvin.smith@reading.ac.uk"
+  contact: true
+- name: "Mia Smith"
+  info: "Graduate student, University of Michigan (she/her)"
+  email: "smithmia@umich.edu"
+  contact: true
+- name: "Stacey Smith?"
+  info: "Full professor, the University of Ottawa (She/her)"
+  email: "Stacey.smith@uottawa.ca"
+  website: "https://mysite.science.uottawa.ca/rsmith43/"
+  contact: true
+- name: "Chris Solomon"
+  info: "PhD student at University of Nevada, Reno (they/them)"
+  email: "chris.solomon.math@gmail.com"
+  contact: true
+- name: "Maria Soria-Carro"
+  info: "Graduate Student, The University of Texas at Austin (she/her/hers)"
+  email: "maria.soriac@math.utexas.edu"
+  website: "https://web.ma.utexas.edu/users/maria.soriac/"
+  contact: true
+- name: "Christina Sormani"
+  info: "Full Professor, Lehman College and CUNYGC (any pronouns)"
+  website: "https://sites.google.com/site/professorsormani/home"
+  contact: true
+- name: "Gabriel Sosa Castillo"
+  info: "Assistant Professor of Mathematics, Colgate University (He/Him/His)"
+  email: "gsosacastillo@colgate.edu"
+  contact: true
+- name: "Summer Southwood"
+  info: "PhD Student, University of South Carolina (She/Her - Transgender woman)"
+  email: "ssouthwood@sc.edu"
+  contact: true
+- name: "Pim Spelier"
+  info: "PhD student, Leiden University"
+  email: "spelier.p@math.leidenuniv.nl"
+  website: "https://sites.google.com/view/pim-spelier"
+  contact: true
+- name: "S. C. Steenkamp"
+  info: "PhD Student, University of Cambridge (they/them)"
+  website: "https://www.cl.cam.ac.uk/~scs62/"
+- name: "Ada Stelzer"
+  info: "Graduate Student, University of Illinois at Urbana-Champaign (she/her/hers)"
+  email: "astelzer@illinois.edu"
+  website: "https://sites.google.com/illinois.edu/ada-stelzer/"
+  contact: true
+- name: "Natalie Stewart"
+  info: "PhD Student"
+  email: "nataliestewart@math.harvard.edu"
+  website: "https://nataliesstewart.github.io"
+- name: "Jeremy Stratton-Smith"
+  info: "Lead Developer, Wolfram|Alpha Math Content at Wolfram Research (they/them or he/him)"
+  email: "jnstrattonsmith@gmail.com"
+  contact: true
+- name: "Jeremy Stratton-Smith"
+  info: "PhD Student, Rochester Institute of Technology (They/them)"
+  email: "jnstrattonsmith@gmail.com"
+  website: "https://jstrattonsmith.github.io/cv/"
+  contact: true
+- name: "Emerson Studt"
+  info: "PhD student, UC Davis (he/him/his or they/them/their)"
+  email: "studt@math.ucdavis.edu"
+- name: "Leah Sturman"
+  info: "PhD student Oregon State University (she/her)"
+  email: "sturmanl@oregonstate.edu"
+  contact: true
+- name: "Seth Sullivant"
+  info: "Distinguished Professor, North Carolina State University (he/him)"
+  email: "smsulli2@ncsu.edu"
+  website: "https://sethsullivant.wordpress.ncsu.edu/"
+  contact: true
+- name: "Vanessa Sun"
+  info: "PhD Student, University of Utah (she/her)"
+  email: "vanessa.sun@utah.edu"
+  contact: true
+- name: "Isaac Sundberg"
+  info: "Postdoctoral fellow, Max Planck Institute for Mathematics (they/them)"
+  email: "isaacsundbe@gmail.com"
+  website: "https://imsundberg.github.io/"
+  contact: true
+- name: "Manil Suri"
+  info: "Professor, Department of Mathematics and Statistics, University of Maryland Baltimore County (He/him/his)"
+  email: "suri@umbc.edu"
+  website: "http://manilsuri.umbc.edu"
+  contact: true
+- name: "Robert Suzzi Valli"
+  info: "Associate Professor of Mathematics, Manhattan College (he/him/his)"
+  email: "robert.suzzivalli@manhattan.edu"
+  website: "https://manhattan.edu/campus-directory/robert.suzzivalli"
+  contact: true
+- name: "Shel Swenson"
+  info: "Lecturer, University of Tennessee Knoxville (she/her/hers)"
+  email: "mswenson@utk.edu"
+  contact: true
+- name: "David Swinarski"
+  info: "Associate Professor, Fordham University (he/him/his)"
+  email: "dswinarski@fordham.edu"
+  website: "https://faculty.fordham.edu/dswinarski/"
+  contact: true
+- name: "Holden Swindell"
+  info: "Graduate Student, University of Minnesota Twin Cities"
+  email: "swind027@umn.edu"
+  website: "https://hswindell.github.io"
+  contact: true
+- name: "Holly Swisher"
+  info: "Professor, Oregon State University (she/they)"
+  email: "swisherh@math.oregonstate.edu"
+  website: "https://sites.google.com/view/hollyswisher/home"
+  contact: true
+- name: "Ea E T"
+  info: "PhD student at the University of Illinois Urbana-Champaign (Any gender neutral pronouns)"
+  email: "eaet2@illinois.edu"
+  website: "https://eaetopoi.github.io/"
+  contact: true
+- name: "Lực Ta"
+  info: "PhD Student, University of Pittsburgh, Department of Mathematics (he/him)"
+  email: "ldt37@pitt.edu"
+  website: "https://luc-ta.github.io"
+  contact: true
+- name: "Peyam Tabrizian"
+  info: "Lecturer, Brown University (he/him/his)"
+  email: "peyam_tabrizian@brown.edu"
+  website: "https://www.youtube.com/c/drpeyam"
+  contact: true
+- name: "Kaitlin Tademy"
+  info: "PhD student (she/her)"
+  email: "kaitlin.tademy@huskers.unl.edu"
+  contact: true
+- name: "Niall Taggart"
+  info: "Postdoc, Utrecht University"
+  contact: true
+- name: "David Taylor"
+  info: "Associate Dean for Academic Affairs and General Education; Professor of Mathematics @ Roanoke College (he/him/his)"
+  email: "taylor@roanoke.edu"
+  contact: true
+- name: "Daniel Tedeschi"
+  info: "PhD student at Colorado State University (they/he)"
+  email: "tedeschi@colostate.edu"
+  website: "https://sites.google.com/view/daniel-tedeschi/home"
+  contact: true
+- name: "Jacinda Terkel"
+  info: "University of Memphis PhD Student (she/her)"
+  email: "jeterkel@memphis.edu"
+  contact: true
+- name: "Vivek Tewary"
+  info: "Assistant Professor, SIAS, Krea University, India (he/him/they/them)"
+  email: "vivektewary@gmail.com"
+  website: "https://vivektewary.github.io"
+  contact: true
+- name: "Ritheesh Thiruppathi"
+  info: "M.Sc Student, Universität Regensburg, Germany (he/him)"
+  contact: true
+- name: "Anthony Thomas"
+  info: "Assistant Teaching Professor"
+  email: "ahth@ucdavis.edu"
+  website: "https://thomas9t.github.io"
+  contact: true
+- name: "Becca Thomases"
+  info: "Associate Professor, UC Davis, Mathematics (She/her/hers)"
+  email: "thomases@math.ucdavis.edu"
+  website: "https://www.math.ucdavis.edu/~thomases/"
+  contact: true
+- name: "Bianca Thompson"
+  info: "Assistant professor at Westminster College (she/her/hers)"
+  email: "bthompson@westminstercollege.edu"
+  website: "https://biancasmath.wordpress.com/"
+- name: "Benjamin Thompson"
+  info: "PhD Student, Cornell University (he/him)"
+  email: "bgt37@cornell.edu"
+  contact: true
+- name: "Dylan Thurston"
+  info: "Professor, Indiana University (He/him)"
+  email: "dpthurst@indiana.edu"
+  website: "http://pages.iu.edu/~dpthurst/"
+  contact: true
+- name: "Maggy Tomova"
+  info: "Associate Dean and Professor, The University of Iowa (she/they)"
+  email: "maggy-tomova@uiowa.edu"
+  contact: true
+- name: "Chad Topaz"
+  info: "Professor of Mathematics, Williams College (He/Him/His)"
+  email: "cmt6@williams.edu"
+  website: "http://www.chadtopaz.com"
+  contact: true
+- name: "Henry Towsner"
+  info: "Associate Professor, University of Pennsylvania (he/him)"
+  website: "http://www.math.upenn.edu/~htowsner"
+  contact: true
+- name: "Will Tran"
+  info: "Southwestern University, Assistant Professor of Instruction (he/him/his)"
+  email: "tranw@southwestern.edu"
+  contact: true
+- name: "Lee Trent"
+  info: "PhD Student at the University of Minnesota, Twin Cities (she/he)"
+  email: "trent065@umn.edu"
+  website: "http://vacuously-true.com"
+  contact: true
+- name: "Roshni Truax"
+  info: "PhD Student, University of California, Berkeley (she/her)"
+- name: "Dani Tubbenhauer"
+  info: "Associate Professor (They/them)"
+  email: "daniel.tubbenhauer@sydney.edu.au"
+  website: "https://dtubbenhauer.com"
+  contact: true
+- name: "Matt Turner"
+  info: "PhD Student, University of Bath (He/Him)"
+  email: "m.d.turner2196@gmail.com"
+  website: "https://people.bath.ac.uk/mt916/"
+  contact: true
+- name: "Kathryn Van Etten"
+  info: "PhD student, University of Nebraska - Lincoln (she/they)"
+  email: "kvanetten2@huskers.unl.edu"
+  contact: true
+- name: "Karoline van Gemst"
+  info: "PhD student at University of Sheffield (She/her)"
+  email: "Karolinegemst@gmail.com"
+- name: "Danika Van Niel"
+  info: "Postdoc at Binghamton University (she/her)"
+  email: "dvanniel@binghamton.edu"
+  website: "https://www.danikavanniel.com"
+  contact: true
+- name: "Laura van Schijndel"
+  info: "PhD student in mathematical biology at Wageningen University and Research (WUR) (they/them)"
+  email: "laura.vanschijndel@wur.nl"
+  contact: true
+- name: "Sam Vance"
+  info: "Graduate Student of Mathematics, University of Minnesota ((he/him))"
+  email: "vance054@umn.edu"
+  website: "https://www-users.math.umn.edu/~vance054/index.html"
+  contact: true
+- name: "Elias Vandenberg"
+  info: "Ph.D. student, Western University (he/him)"
+  website: "https://sites.google.com/view/evandenberg/"
+  contact: true
+- name: "Sue VanHattum"
+  info: "Math Professor, Contra Costa College (she)"
+  email: "svanhattum@contracosta.edu"
+  website: "http://mathmamawrites.blogspot.com"
+  contact: true
+- name: "ila Varma"
+  info: "Assistant Professor at University of Toronto (she/they)"
+  email: "ila@math.toronto.edu"
+  contact: true
+- name: "Deepanshu Vasal"
+  info: "Research Scientist, Northwestern University (He/him/his)"
+  email: "dvasal@umich.edu"
+  website: "https://sites.google.com/view/dvasal/home"
+  contact: true
+- name: "Roman Vasquez"
+  info: "Graduate Student at Auburn University (He/They)"
+  email: "roman.vasquez@auburn.edu"
+  contact: true
+- name: "Mikael Vejdemo-Johansson"
+  info: "Assistant Professor, CUNY College of Staten Island / CUNY Graduate Center (he/him)"
+  website: "http://www.math.csi.cuny.edu/~mvj"
+- name: "Lara Vicino"
+  info: "PhD Student, Technical University of Denmark (DTU) (she/her)"
+  email: "lavi@dtu.dk"
+  contact: true
+- name: "Sarthak Vijay"
+  info: "PhD scholar, IIT Gandhinagar (he/him)"
+  email: "vijaysarthak23@gmail.com"
+  contact: true
+- name: "Andrés Vindas Meléndez"
+  info: "NSF Postdoctoral Research Fellow, UC Berkeley (he/they)"
+  email: "andres.vindas@berkeley.edu"
+  website: "https://math.berkeley.edu/~vindas"
+  contact: true
+- name: "Pankaj Vishe"
+  info: "Professor, Durham University (he/him)"
+  contact: true
+- name: "Marie Vitulli"
+  info: "Professor Emerita of Mathematics, University of Oregon (She/her)"
+  email: "vitulli@uoregon.edu"
+  contact: true
+- name: "John Voight"
+  info: "Professor at Dartmouth College"
+  website: "http://www.math.dartmouth.edu/~jvoight/"
+  contact: true
+- name: "Matthew Voigt"
+  info: "Assistant Professor, Clemson University (He, Him, His)"
+  email: "mkvoigt@gmail.com"
+  website: "https://www.clemson.edu/cecas/departments/ese/people/esed-faculty/voigt.html"
+  contact: true
+- name: "Eleanor Waiss"
+  info: "Student, Butler University (she/her)"
+  email: "waiss.eleanor@gmail.com"
+  website: "https://eleanorwaiss.github.io"
+  contact: true
+- name: "Jonathan Walker-Moses"
+  info: "Graduate Teaching Assistant, University of Wisconsin-Milwaukee (he/they)"
+  website: "https://sites.google.com/view/walkermosesmath/home"
+  contact: true
+- name: "Daniel Wallick"
+  info: "PhD student at the Ohio State University (he/him)"
+  email: "wallick.43@osu.edu"
+  website: "https://www.asc.ohio-state.edu/wallick.43/"
+- name: "Brian Walter"
+  info: "Professor, The Evergreen State College (he/him)"
+  email: "bwalter@evergreen.edu"
+  contact: true
+- name: "Amy Wang"
+  info: "PhD student at Yale University (She/her)"
+  email: "amy.wang.yw735@yale.edu"
+  contact: true
+- name: "Michole Washington, Ph.D."
+  info: "CEO/Founder of STEMulation (She/They)"
+  email: "michole@mathchole.com"
+  contact: true
+- name: "Abigail Watkins"
+  info: "PhD student, Indiana University (she/her)"
+  email: "abwatk@iu.edu"
+  website: "https://sites.google.com/view/abigailwatkins/home"
+  contact: true
+- name: "Phoebe Watkins"
+  info: "Associate Instructor at Indiana University Bloomington (she/they)"
+  email: "phowatki@iu.edu"
+  contact: true
+- name: "Alison Watson"
+  info: "Student (undergraduate) at Cal Poly SLO (She/her)"
+  email: "alisonw4tson@gmail.com"
+  contact: true
+- name: "Jordan Watts"
+  info: "Associate Professor (He/Him/His)"
+  email: "jordan.watts@cmich.edu"
+  website: "https://people.se.cmich.edu/watts1j/"
+  contact: true
+- name: "Matthew Weaver"
+  info: "PhD Candidate, Princeton University (he/him/his)"
+  email: "mzw@cs.princeton.edu"
+  website: "https://www.cs.princeton.edu/~mzweaver/"
+  contact: true
+- name: "Lilly Webster"
+  info: "Quantitative Reasoning Center Director, Earlham College (they/them)"
+  contact: true
+- name: "Katrin Wehrheim"
+  info: "associate professor, UC Berkeley (they/them ... not a preference, just my pronouns ;-))"
+  website: "https://math.berkeley.edu/~katrin/"
+  contact: true
+- name: "Tait Weicht"
+  info: "Teaching Assistant, University of California, Davis"
+  contact: true
+- name: "Alexandra Weiner"
+  info: "Instructor, University of Pittsburgh (she/her)"
+  email: "qvgw5680@gmail.com"
+  website: "https://walexandra.github.io/"
+  contact: true
+- name: "Jared Weinstein"
+  info: "Associate Professor, Boston University (He/Him)"
+  contact: true
+- name: "Rachel Weir"
+  info: "Professor of Mathematics, Allegheny College (She, her, hers)"
+  email: "rweir@allegheny.edu"
+- name: "Andrea Welsh"
+  info: "Visiting Associate Professor, Texas A&M University (She/they)"
+  email: "ajwelsh@tamu.edu"
+  website: "https://www.andreajwelsh.com"
+  contact: true
+- name: "Noelle West"
+  info: "Graduate Student (She/Her)"
+  email: "noellewest@my.unt.edu"
+  contact: true
+- name: "Ursula Whitcher"
+  info: "Associate Editor, Mathematical Reviews (AMS)"
+  email: "uaw@umich.edu"
+  website: "http://www-personal.umich.edu/~uaw/"
+  contact: true
+- name: "Lauren White"
+  info: "Graduate Teaching Assistant Kansas State University (she/her)"
+  contact: true
+- name: "Courtney White"
+  info: "Graduate Student, University of Kentucky (Any)"
+  email: "courtneycw@uky.edu"
+  contact: true
+- name: "Andre Wibisono"
+  info: "Assistant Professor, Yale University (He/him)"
+  email: "andre.wibisono@yale.edu"
+  website: "https://www.cs.yale.edu/homes/wibisono/"
+  contact: true
+- name: "Alex Wiedemann"
+  info: "Visiting Assistant Professor, Davidson College (He/him/his)"
+  email: "alwiedemann@davidson.edu"
+  website: "http://alexwiedemann.online/"
+  contact: true
+- name: "Emil Wiedemann"
+  info: "Professor, University of Erlangen, Germany (he/him)"
+  email: "emil.wiedemann@fau.de"
+  website: "https://en.www.math.fau.de/analysis-2/people/prof-dr-emil-wiedemann/"
+  contact: true
+- name: "Sophia Wiedmann"
+  info: "Graduate Student at the University of Wisconsin Madison (she/hers)"
+  email: "swiedmann@wisc.edu"
+  contact: true
+- name: "Chad Wiley"
+  info: "Associate Professor of Mathematics, Emporia State University (He/Him)"
+  contact: true
+- name: "Savannah Williams"
+  info: "PhD student, Bryn Mawr College (she/they)"
+  email: "swilliams1@brynmawr.edu"
+  contact: true
+- name: "Kameryn Williams"
+  info: "Assistant professor in mathematics, Bard College at Simon's Rock (they/them)"
+  website: "https://kamerynjw.net"
+  contact: true
+- name: "Erin Williams"
+  info: "Graduate Teaching Assistant, Portland State University (she/her)"
+  contact: true
+- name: "Alex Wilson"
+  info: "Graduate Student, Dartmouth (he/him/his)"
+  email: "awilson@math.dartmouth.edu"
+  website: "https://math.dartmouth.edu/~awilson/"
+  contact: true
+- name: "Emily Windes"
+  info: "PhD Student (She/her/they/them)"
+  email: "ewindes@u.rochester.edu"
+  website: "https://emilyautumnwindes.com"
+  contact: true
+- name: "Karl Winsor"
+  info: "Graduate Student, Harvard (he/him/his)"
+  email: "kwinsor@math.harvard.edu"
+  website: "http://people.math.harvard.edu/~kwinsor/"
+  contact: true
+- name: "Tian An Wong"
+  info: "Assistant Professor, University of Michigan-Dearborn (they/them)"
+  contact: true
+- name: "Maia Woolf"
+  info: "PhD student and tutor, University of Edinburgh and AGQ CDT (she/her)"
+  email: "maia.woolf@ed.ac.uk"
+  website: "https://webhomes.maths.ed.ac.uk/~mwoolf/"
+  contact: true
+- name: "Luciena Xiao"
+  info: "postdoctoral researcher, University of Helsinki (They/them/theirs)"
+  email: "lucienaxiao@gmail.com"
+  website: "https://sites.google.com/view/lucienaxiaomath/lucienaxiao"
+  contact: true
+- name: "Ren Yeats"
+  info: "Professor, Department of Combinatorics and Optimization, University of Waterloo (they/he)"
+  email: "kayeats@uwaterloo.ca"
+  website: "https://www.math.uwaterloo.ca/~kayeats"
+  contact: true
+- name: "Dean Young"
+  info: "Master's student at NYU Courant (He/Him/His)"
+  email: "linearlibrary@gmail.com"
+  website: "https://linearlibrary.net"
+- name: "TJ Yusun"
+  info: "Assistant Professor Teaching Stream (he/him)"
+  email: "tj.yusun@utoronto.ca"
+  contact: true
+- name: "Mike Zabrocki"
+  info: "Professor, York University"
+  email: "zabrocki@mathstat.yorku.ca"
+  website: "http://garsia.math.yorku.ca/~zabrocki/"
+  contact: true
+- name: "Haowen Zhang"
+  info: "PhD student, Sorbonne Université & Ecole Polytechnique"
+  email: "haowen.zhang@polytechnique.edu"
+  website: "https://sites.google.com/view/haowen-zhang"
+  contact: true

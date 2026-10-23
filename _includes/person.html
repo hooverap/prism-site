@@ -1,0 +1,14 @@
+<div class="person">
+  <div class="person__initial" aria-hidden="true">{{ include.p.name | slice: 0 }}</div>
+  <div>
+    <h3>{{ include.p.name }}</h3>
+    {% if include.p.info %}<p>{{ include.p.info }}</p>{% endif %}
+    {% if include.p.email or include.p.website or include.p.contact %}
+    <div class="person__links">
+      {% if include.p.email %}<a class="tag" href="mailto:{{ include.p.email }}">Email</a>{% endif %}
+      {% if include.p.website %}<a class="tag" href="{{ include.p.website }}">Website</a>{% endif %}
+      {% if include.p.contact %}<span class="tag tag--contact" title="Feel free to contact me about the climate at my institution">Contact me about climate</span>{% endif %}
+    </div>
+    {% endif %}
+  </div>
+</div>

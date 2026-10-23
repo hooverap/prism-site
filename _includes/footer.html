@@ -3,10 +3,9 @@
     <div class="site-footer__col">
       <a class="wordmark wordmark--footer" href="{{ '/' | relative_url }}">
         {% include mark.html %}
-        <span>{{ site.title }}</span>
       </a>
       <p>{{ site.description }}</p>
-      <p class="fineprint">{{ site.title }} is a registered 501(c)(3) nonprofit &middot; EIN {{ site.ein }}</p>
+      <p class="fineprint">Spectra: the Association for LGBTQ+ Mathematicians is a registered 501(c)(3) nonprofit &middot; EIN {{ site.ein }}</p>
     </div>
 
     <div class="site-footer__col">
@@ -14,6 +13,8 @@
       <ul class="plain-list">
         <li><a href="{{ site.mailing_list_url }}">Mailing list</a></li>
         <li><a href="{{ site.bluesky_url }}">Bluesky</a></li>
+        <li><a href="{{ site.facebook_url }}">Facebook</a></li>
+        <li><a href="mailto:{{ site.council_email }}">Email the Council</a></li>
         <li><a href="{{ '/donate/' | relative_url }}">Donate</a></li>
       </ul>
     </div>
@@ -22,8 +23,15 @@
       <h2>Site</h2>
       <ul class="plain-list">
         {% for item in site.nav %}
-        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% if item.children %}
+          {% for child in item.children %}{% unless child.url contains '#' %}
+          <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+          {% endunless %}{% endfor %}
+        {% elsif item.button != true %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endif %}
         {% endfor %}
+        <li><a href="{{ '/allyship/' | relative_url }}">Allyship &amp; Ally List</a></li>
       </ul>
     </div>
   </div>

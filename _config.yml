@@ -1,44 +1,81 @@
-title: Prism
-tagline: Mathematicians of every spectrum
+title: Spectra
+tagline: The Association for LGBTQ+ Mathematicians
 description: >-
-  Prism is a community and resource hub for LGBTQ+ mathematicians,
-  their students, and their allies.
+  Spectra is the association for LGBTQ+ mathematicians and their allies,
+  building recognition and community for gender and sexual minority
+  mathematicians.
+# Leave empty while the site is served from hooverap.github.io/prism-site.
+# When lgbtmath.org points here, set this to "https://www.lgbtmath.org".
 url: ""
 baseurl: ""
 
-# EIN and donation links are placeholders — replace with your org's real details.
-ein: "00-0000000"
-donate_url: "https://secure.givelively.org/donate/your-org"
-mailing_list_url: "https://groups.google.com/d/forum/your-org"
-bluesky_url: "https://bsky.app/profile/your-org.org"
+ein: "99-1720827"
+donate_url: "https://secure.givelively.org/donate/spectra-the-association-for-lgbtq-mathematicians"
+mailing_list_url: "https://groups.google.com/d/forum/spectra-math"
+mailing_list_subscribe_url: "https://groups.google.com/group/spectra-math/boxsubscribe"
+bluesky_url: "https://bsky.app/profile/lgbtmath.org"
+facebook_url: "https://www.facebook.com/groups/OutInMath/"
+council_email: "board@lgbtmath.org"
+# Google Form used to join or update the Out List and Ally List
+list_signup_url: "https://docs.google.com/forms/d/e/1FAIpQLScLcxGm9u1ufGdYknxS_E0RuGY9BOubJ2OYXcVeAvrR3NL1_g/viewform"
+volunteer_form_url: "https://forms.gle/52cZxkAw47AvBfk97"
 
+# Top navigation. An item with `children` becomes a drop-down menu.
+# `button: true` styles an item as a button (used for Donate).
 nav:
-  - title: Home
-    url: /
-  - title: Out List
-    url: /outlist/
-  - title: Board
-    url: /board/
+  - title: About
+    children:
+      - title: Council
+        url: /council/
+      - title: Board
+        url: /board/
+      - title: History
+        url: /history/
+      - title: Resources
+        url: /resources/
   - title: Events
-    url: /events/
-  - title: Join
-    url: /join/
-  - title: Allyship
-    url: /allyship/
-  - title: Volunteer
-    url: /volunteer/
+    children:
+      - title: Spectra Events
+        url: /events/
+      - title: LGBTQ+ Math Events
+        url: /events/lgbtq-math/
+  - title: Community
+    children:
+      - title: Out List
+        url: /outlist/
+      - title: Ally List
+        url: /allyship/#ally-list
+      - title: Institutional Members
+        url: /allyship/#institutional-members
+  - title: Get Involved
+    children:
+      - title: Join
+        url: /join/
+      - title: Student Chapters
+        url: /join/#student-chapters
+      - title: Volunteer
+        url: /volunteer/
+      - title: Mailing List
+        url: /join/#mailing-list
   - title: Donate
     url: /donate/
-  - title: History
-    url: /history/
+    button: true
 
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle

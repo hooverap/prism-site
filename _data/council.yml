@@ -1,0 +1,115 @@
+# Spectra Council. Photos live in assets/img/council/. Leave `photo` out to show an initial instead.
+- role: President
+  name: Alex Hoover
+  photo: AlexHoover.jpg
+  bio: >-
+    <a href="https://www.alexanderphoover.info">Alexander Hoover</a> (he/him) is an assistant professor of applied
+    mathematics at Cleveland State University. Research wise, he is a mathematical biologist and fluid dynamicist,
+    with a speciality in leveraging computational fluid dynamics frameworks to answer questions pertaining to
+    biomechanics and fluid transport. He is an active member in the Society for Industrial and Applied Mathematics
+    (SIAM), the American Physical Society (APS), and the Society of Mathematical Biology (SMB) professional societies,
+    having organized minisymposia and conferences geared toward queer applied mathematicians, including the organizing
+    of the Queer in Computational and Applied Mathematics (QCAM) workshops. In his free time, he loves to garden at
+    home, tend to the neighborhood cats, and can be found at the beach when it's not frigid in Cleveland.
+- role: President-Elect
+  name: Ron Buckmire
+  photo: RonBuckmire.jpg
+  bio: >-
+    <p><a href="http://www.marist.edu/ron-buckmire">Ron Buckmire</a> is Dean of the School of Computer Science and
+    Mathematics at Marist University in Poughkeepsie, NY and Emeritus Professor of Mathematics at Occidental College in
+    Los Angeles, CA.</p>
+    <p>He has served the mathematical sciences community in a number of different capacities, including as a Program
+    Director at the National Science Foundation’s Division of Undergraduate Education, Vice-President for Equity,
+    Diversity, and Inclusion at the Society for Industrial and Applied Mathematics, Chair of the Council on the
+    Professional at the Mathematical Association of America, and an elected Member of the Council of the American
+    Mathematical Society.</p>
+- role: Treasurer
+  name: David Crombecque
+  bio: >-
+    <p>David Crombecque is an Assistant Professor of Teaching in the
+    <a href="https://dornsife.usc.edu/mathematics/">Department of Mathematics at the University of Southern California</a>
+    in Los Angeles. He holds a Ph.D. in Mathematics from USC and previously, a Master’s in Mathematics from the
+    Universite des Sciences et Technologies de Lille, France. His research interests are in Contact Geometry and Knot
+    Theory. His focus on the pedagogy of Mathematics concerns Inquiry Based Learning for undergraduate students as well
+    as professional development for middle school and high school Mathematics teachers.</p>
+    <p>Since 2009, David has been a board member of the
+    <a href="http://www.noglstp.org/">National Organization of Gay and Lesbian Scientists and Technical Professionals (NOGLSTP)</a>
+    where he also represents the Mathematics Caucus and organizes the evaluation committee for the annual
+    <a href="http://www.noglstp.org/programs-projects/scholarships/">Out To Innovate undergraduate and graduate scholarships</a>.</p>
+- role: Secretary
+  name: Hannah Housden
+  photo: HannahHousden.jpeg
+  bio: >-
+    Hannah Housden is currently a Senior Lecturer at Vanderbilt University, where she was previously a postdoc. She
+    earned her PhD in Math from UCLA in 2022, and her research is in algebraic topology and category theory. Her
+    teaching focuses on empowering students to be agents in their own mathematical education and to see themselves as
+    part of the mathematical community. She invites her students to be critical of math (i.e. "how can this be useful
+    in my real life?") rather than have math be critical of them (i.e. "how can I make sure I pass this test?").
+- role: Chair, Standing Committee on the Profession
+  email: profession@lgbtmath.org
+  name: Apoorva Mate
+  photo: ApoorvaMate.jpg
+  bio: >-
+    Apoorva Mate is an Assistant Teaching Professor of Mathematics at Pennsylvania State University – Brandywine. She
+    earned her Ph.D. in Mathematics from the University of Mississippi and a B.S. in Mathematics from Mississippi State
+    University. Her research spans Banach lattices, operator theory, and mathematics education. Her current work
+    explores cross-racial dynamics in mathematics classrooms, with a focus on fostering equity and inclusion.
+- role: Chair, Standing Committee on Membership
+  email: membership@lgbtmath.org
+  name: Stephan Patterson
+  photo: Patterson.jpg
+  bio: >-
+    Stephan Patterson is an Assistant Professor at Louisiana State University Shreveport. He is an applied
+    mathematician who will use any potentially helpful area of mathematics, which thus far has included tools from
+    optimization, data science, statistics, computer science, graph theory, and numerical analysis. They completed a
+    Ph.D. in Applied Mathematics at the University of Colorado Denver in 2020; more recently, they have co-authored two
+    OER textbooks. When not at school, he can be found playing with his young son, experimenting in the kitchen, or
+    with his head in a book.
+- role: Chair, Standing Committee on Advocacy
+  email: advocacy@lgbtmath.org
+  name: Sophie Morin
+  bio: >-
+    Sophie Morin is currently a postdoc in the Department of Mathematics and Industrial Engineering at Polytechnique
+    Montréal, working in scientific machine learning. Her graduate work, mostly in ergodic theory, was at UBC
+    Vancouver. She has also taught courses in history of science for humanities majors and in academic literacy for
+    science majors. When not doing math, she enjoys cooking, baking, reading history, and playing with her cat so that
+    he doesn’t seek attention by knocking things off the kitchen table.
+- role: Chair, Standing Committee on Equity, Diversity, Inclusion, and Accessibility
+  email: edia@lgbtmath.org
+  name: Alex Wiedemann
+  photo: Alexander_Wiedemann.jpg
+  bio: >-
+    Hi, I'm <a href="https://www.alexwiedemann.online/">Alex Wiedemann</a>, a Visiting Assistant Professor of
+    Mathematics and Computer Science at Randolph-Macon College. My main areas of interest are operator theory,
+    mathematical physics, and (spectral) graph theory. I am especially interested in interdisciplinary questions which
+    use tools from these fields in unexpected ways. More broadly, I seek to understand the interplay between continuous
+    and discrete structures. I am also interested in the roles of diversity and inclusivity mathematics, and in the
+    development of teaching practices which better serve students from historically underrepresented groups.
+- role: Chair, Standing Committee on Outreach & Development
+  email: outreach@lgbtmath.org
+  name: Chris Goff
+  photo: CGoff.jpeg
+  bio: >-
+    Chris Goff is currently serving as Chair of the Mathematics Department at University of the Pacific in Stockton,
+    CA, where he has been a faculty member since 2002. He currently co-directs two online resources: the
+    <a href="https://scholarlycommons.pacific.edu/euler/">Euler Archive</a>, a repository of almost all of Euler’s
+    original publications, and <a href="https://scholarlycommons.pacific.edu/euleriana/">Euleriana</a>, an e-journal
+    devoted to scholarship on Euler and his contemporaries. He has also served on occasion in administrative roles,
+    such as the Assistant Provost for Diversity (2014-17) and the Associate Dean for General Education and Placement
+    (2020-2024). A founding board member of Spectra, he stepped away from the board in 2023 and is happy to return.
+- role: Odd-year at-large Councilor
+  name: Matthew Cordes
+  bio: >-
+    Matthew Cordes is an Assistant Professor at Heriot-Watt University specializing in geometric group theory. He
+    received his PhD in Mathematics from Brandeis University and had postdocs at the Technion and ETH Zurich. He is
+    also interested in understanding the ethics of mathematics and has developed a curriculum and taught a course on
+    the ethics of mathematics at ETH.
+- role: Even-year at-large Councilor
+  name: Sylvy Anscombe
+  photo: SylvyAnscombe.jpeg
+  bio: >-
+    Sylvy is Maîtresse de Conférences (roughly Associate Professor) at the IMJ-PRG, Université Paris Cité, where she
+    specializes in Logic and Model Theory, and their interactions with Algebra and Number Theory. Having grown up in the
+    English countryside, she went up to Oxford for her undergraduate and graduate studies. After sojourns in Leeds and
+    Preston, she made a mid-pandemic hop across the pond (no, not that one) to Paris. Away from the blackboard, she has
+    a deep love of music, and can be found humming in a variety of styles.

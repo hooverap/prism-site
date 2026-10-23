@@ -1,50 +1,40 @@
 ---
 title: Board
 permalink: /board/
-description: The volunteer board that runs the organization.
+description: Spectra's Board, its governing body.
 ---
 
 <section class="section">
   <div class="wrap">
     <div class="section__head">
-      <p class="section__kicker">Who runs this</p>
-      <h1>Board of directors</h1>
-      <p class="lede">{{ site.title }} is entirely volunteer-run. The board sets strategy, oversees finances, and keeps the organization accountable to its members.</p>
+      <p class="section__kicker">Governance</p>
+      <h1>Spectra Board</h1>
+      <p class="lede">Spectra's Board is its governing body. Its five members are the President (ex officio) and four appointed members who serve staggered four-year terms.</p>
+      <p>Day-to-day operations are run by the <a class="text-link" href="{{ '/council/' | relative_url }}">Council</a>.</p>
     </div>
 
-    <div class="grid grid--3">
-      <div class="card">
-        <h3>Placeholder Name</h3>
-        <p class="meta">Chair</p>
-        <p>Associate Professor of Mathematics, Placeholder University. Works in algebraic geometry.</p>
-      </div>
-      <div class="card">
-        <h3>Placeholder Name</h3>
-        <p class="meta">Treasurer</p>
-        <p>Data scientist, formerly a PhD student in probability theory.</p>
-      </div>
-      <div class="card">
-        <h3>Placeholder Name</h3>
-        <p class="meta">Secretary</p>
-        <p>Lecturer in mathematics education, works on inclusive pedagogy.</p>
-      </div>
-      <div class="card">
-        <h3>Placeholder Name</h3>
-        <p class="meta">Events Director</p>
-        <p>Graduate student in combinatorics, organizes national-meeting socials.</p>
-      </div>
-      <div class="card">
-        <h3>Placeholder Name</h3>
-        <p class="meta">Outreach Director</p>
-        <p>Software engineer and math olympiad coach, leads K&ndash;12 partnerships.</p>
-      </div>
-      <div class="card">
-        <h3>Placeholder Name</h3>
-        <p class="meta">Member at Large</p>
-        <p>Postdoctoral researcher in mathematical biology.</p>
-      </div>
+    <div class="card prose">
+      <h2 style="font-size:1.4rem;">Current Board</h2>
+      <ul class="plain-list">
+        <li>Mike Hill (President, ex officio)</li>
+        <li>Emily Riehl (term ending in 2027)</li>
+        <li>Julie Blackwood (term ending in 2028)</li>
+        <li>Dev Dabke (term ending in 2029)</li>
+        <li>Juliette Bruce (term ending in 2030)</li>
+      </ul>
     </div>
 
-    <p class="fineprint" style="margin-top:2rem;">Interested in serving on the board? See the <a class="text-link" href="{{ '/volunteer/' | relative_url }}">Volunteer</a> page for how nominations work.</p>
+    <details class="disclosure prose">
+      <summary>Former Board members</summary>
+      <ul class="plain-list">
+        <li><a class="text-link" href="http://mduchin.math.tufts.edu/">Moon Duchin</a> (2015&ndash;2022)</li>
+        <li>Concha Gomez (2015&ndash;2022)</li>
+        <li><a class="text-link" href="https://faculty.washington.edu/lind/">Douglas Lind</a> (2015&ndash;2022)</li>
+        <li>Emily Riehl (2015&ndash;2019, 2023)</li>
+        <li>Lily Khadjavi (2015&ndash;2022)</li>
+        <li>Ron Buckmire (2015&ndash;2023)</li>
+        <li>Chris Goff (2015&ndash;2023)</li>
+      </ul>
+    </details>
   </div>
 </section>

@@ -1,7 +1,9 @@
 ---
 title: Out List
 permalink: /outlist/
-description: Mathematicians who are publicly out as LGBTQ+.
+redirect_from:
+  - /People.html
+description: LGBTQ+ mathematicians who have chosen to be listed publicly.
 ---
 
 <section class="section">
@@ -9,38 +11,27 @@ description: Mathematicians who are publicly out as LGBTQ+.
     <div class="section__head">
       <p class="section__kicker">Visibility</p>
       <h1>The Out List</h1>
-      <p class="lede">These mathematicians have chosen to be listed publicly as LGBTQ+, so that students and colleagues can see themselves reflected in the field. Being on this list is entirely voluntary and can be undone at any time.</p>
+      <p class="lede">Visibility is important! LGBTQ+ mathematicians are everywhere, and we hope this list can serve as support for mathematicians at various places on their own LGBTQ+ journeys and also as a resource for people looking to learn more about the climate at various universities.</p>
+      <p>For each mathematician, any identity words and pronouns listed were given by the respondent.</p>
     </div>
 
-    <div class="callout" style="margin-bottom:2.5rem;">
-      <p><strong>Want to be added?</strong> Fill out the sign-up form linked on the <a class="text-link" href="{{ '/join/' | relative_url }}">Join</a> page. You choose exactly what appears about you &mdash; name, institution, field, and pronouns are all optional.</p>
+    <div class="callout" style="margin-bottom:2rem;">
+      <p><strong>Want to be listed?</strong> You can sign up to be on the Out List or the <a class="text-link" href="{{ '/allyship/#ally-list' | relative_url }}">Ally List</a>, or update your listing, by filling out <a class="text-link" href="{{ site.list_signup_url }}">this form</a>.</p>
     </div>
 
-<div id="SFctr" class="SF" data-org="36805" data-ini="!directory/ord=lnm" data-wgo="0" data-scl="0" data-sfi="1"></div><script type="text/javascript" src="https://cdn.membershipworks.com/mfm.js"></script>
+    <h2 style="font-size:1.2rem;">Legend</h2>
+    {% include list-legend.html %}
 
-    <div class="people-list">
-      <div class="person">
-        <div class="person__initial">A</div>
-        <div>
-          <h3>Placeholder Name</h3>
-          <p>Topology &middot; Graduate student, Placeholder University &middot; they/them</p>
-        </div>
+    <div class="list-tools" style="margin-top:2rem;">
+      <div class="form-row">
+        <label for="outlist-search">Search the Out List</label>
+        <input type="text" id="outlist-search" placeholder="Name, institution, pronouns…" data-filter-list="outlist" data-filter-count="outlist-count">
       </div>
-      <div class="person">
-        <div class="person__initial">B</div>
-        <div>
-          <h3>Placeholder Name</h3>
-          <p>Number theory &middot; Assistant Professor, Placeholder College &middot; she/her</p>
-        </div>
-      </div>
-      <div class="person">
-        <div class="person__initial">C</div>
-        <div>
-          <h3>Placeholder Name</h3>
-          <p>Applied mathematics &middot; Postdoctoral researcher &middot; he/him</p>
-        </div>
-      </div>
+      <p class="list-count" id="outlist-count" aria-live="polite">{{ site.data.outlist | size }} mathematicians</p>
     </div>
-    <p class="fineprint" style="margin-top:1.5rem;">This is placeholder content. Replace the entries above with real Out List submissions, or wire this page up to a small data file (for example <code>_data/outlist.yml</code>) so entries can be added without editing HTML.</p>
+
+    <div class="people-list people-list--cols" id="outlist">
+      {% for p in site.data.outlist %}{% include person.html p=p %}{% endfor %}
+    </div>
   </div>
 </section>
