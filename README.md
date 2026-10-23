@@ -55,6 +55,14 @@ navigation or org links in one place, and every page picks it up.
   links keep working. Old page URLs such as `/People.html` redirect to the new
   pages via `jekyll-redirect-from`.
 
+## Membership (MembershipWorks)
+
+`/members/join/` and `/members/sign-in/` show MembershipWorks widgets. Paste
+the embed codes from MembershipWorks (Help > Basics & Setup > Squarespace,
+Weebly, HTML5) into `_includes/membershipworks/join.html` (sign-up form) and
+`_includes/membershipworks/account.html` (member login / account), replacing
+the placeholder in each file.
+
 ## Customize it
 
 1. **Org name and links** — edit `_config.yml`: `title`, `tagline`,

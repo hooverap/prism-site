@@ -19,6 +19,7 @@ description: Individual, Affiliate, and Student Chapter membership in Spectra, p
         <p class="meta">Annual cost: $0</p>
         <h3>Individual membership</h3>
         <p>Individual members are able to vote in Spectra elections.</p>
+        <p><a href="{{ '/members/join/' | relative_url }}">Sign up as a member</a></p>
       </div>
       <div class="card" id="affiliates">
         <p class="meta">Institutions &amp; organizations</p>
