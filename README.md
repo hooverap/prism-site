@@ -122,6 +122,6 @@ break by accident.
 
 The site deploys to https://hooverap.github.io/prism-site/ through
 `.github/workflows/jekyll.yml` on every push to `main`. To move it to the real
-domain: set `url: "https://www.lgbtmath.org"` in `_config.yml`, add
+domain: set `url: "https://www.lgbtmath.org"` and `baseurl: ""` in `_config.yml`, add
 `www.lgbtmath.org` as the custom domain under Settings → Pages, and point the
 domain's DNS at GitHub Pages (and remove it from the old site's repo first).

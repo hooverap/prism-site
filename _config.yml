@@ -7,7 +7,9 @@ description: >-
 # Leave empty while the site is served from hooverap.github.io/prism-site.
 # When lgbtmath.org points here, set this to "https://www.lgbtmath.org".
 url: ""
-baseurl: ""
+# The site lives under /prism-site on hooverap.github.io. Set this to "" when
+# lgbtmath.org (a custom domain at the root) points here.
+baseurl: "/prism-site"
 
 ein: "99-1720827"
 donate_url: "https://secure.givelively.org/donate/spectra-the-association-for-lgbtq-mathematicians"
