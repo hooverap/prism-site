@@ -57,11 +57,11 @@ navigation or org links in one place, and every page picks it up.
 
 ## Membership (MembershipWorks)
 
-`/members/join/` and `/members/sign-in/` show MembershipWorks widgets. Paste
-the embed codes from MembershipWorks (Help > Basics & Setup > Squarespace,
-Weebly, HTML5) into `_includes/membershipworks/join.html` (sign-up form) and
-`_includes/membershipworks/account.html` (member login / account), replacing
-the placeholder in each file.
+Get Involved → Join (`/members/join/`) shows the MembershipWorks sign-up form,
+and Community → Member Sign In (`/members/sign-in/`) shows the member login and
+account page. Their embed codes (organization 36805) live in
+`_includes/membershipworks/join.html` and `_includes/membershipworks/account.html`.
+The `/join/` page still holds affiliate, student chapter, and mailing list info.
 
 ## Customize it
 

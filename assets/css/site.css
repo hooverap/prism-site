@@ -154,7 +154,7 @@ ul.plain-list a:hover { color: var(--violet); }
   mix-blend-mode: multiply; /* blends the logo's white background into the page */
 }
 .wordmark--footer .logo { height: 58px; }
-@media (max-width: 1040px) { .logo { height: 46px; } }
+@media (max-width: 940px) { .logo { height: 46px; } }
 
 .site-nav { display: flex; align-items: center; }
 .nav-list {
@@ -219,7 +219,7 @@ ul.plain-list a:hover { color: var(--violet); }
   visibility: visible;
   transform: none;
 }
-@media (hover: hover) and (min-width: 1041px) {
+@media (hover: hover) and (min-width: 941px) {
   .nav-item--parent:hover > .nav-sub { opacity: 1; visibility: visible; transform: none; }
 }
 .nav-sub a {
@@ -256,7 +256,7 @@ ul.plain-list a:hover { color: var(--violet); }
   width: 22px; height: 2px; background: var(--ink); border-radius: 2px;
 }
 
-@media (max-width: 1040px) {
+@media (max-width: 940px) {
   .nav-toggle { display: flex; }
   .site-nav {
     position: absolute;

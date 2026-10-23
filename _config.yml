@@ -49,22 +49,18 @@ nav:
         url: /allyship/#ally-list
       - title: Institutional Members
         url: /allyship/#institutional-members
+      - title: Member Sign In
+        url: /members/sign-in/
   - title: Get Involved
     children:
       - title: Join
-        url: /join/
+        url: /members/join/
       - title: Student Chapters
         url: /join/#student-chapters
       - title: Volunteer
         url: /volunteer/
       - title: Mailing List
         url: /join/#mailing-list
-  - title: Members
-    children:
-      - title: Join
-        url: /members/join/
-      - title: Sign In
-        url: /members/sign-in/
   - title: Donate
     url: /donate/
     button: true
